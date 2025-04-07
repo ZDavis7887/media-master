@@ -31,7 +31,7 @@ export default function RandomPicker() {
   }, []);
 
   const cleanTitle = (title) => {
-    return title.replace(/\s*\([^)]*\)/g, "").trim();
+    return title.replace(/\s*\([^)]*\)/g, "").replace(/\d+/g, "").trim();
   };
 
   const pickRandom = async (type) => {
