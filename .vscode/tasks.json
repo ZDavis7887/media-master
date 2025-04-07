@@ -2,11 +2,11 @@
     "version": "2.0.0",
     "tasks": [
       {
-        "label": "Update Movies JSON",
+        "label": "Update JSONs",
         "type": "shell",
         "command": "python",
         "args": [
-          "Assets/update_movies_json.py"
+          "Assets/update_jsons.py"
         ],
         "group": {
           "kind": "build",
