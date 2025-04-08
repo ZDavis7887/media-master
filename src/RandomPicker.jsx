@@ -13,6 +13,7 @@ export default function RandomPicker() {
   const [picked, setPicked] = useState(null);
 
   const TMDB_API_KEY = import.meta.env.VITE_TMDB_API_KEY;
+  const COMICVINE_API_KEY = import.meta.env.VITE_COMICVINE_API_KEY;
 
   useEffect(() => {
     Promise.all([
@@ -60,39 +61,57 @@ export default function RandomPicker() {
       }
     }
 
+    if ((type === "comics" || type === "graphicNovels") && choice?.Title) {
+      const cleanedTitle = cleanTitle(choice.Title);
+      try {
+        const response = await fetch(
+          `http://localhost:3001/comicvine?query=${encodeURIComponent(cleanedTitle)}`
+        );
+        const data = await response.json();
+
+        if (data.results?.length) {
+          const comic = data.results[0];
+          choice.Description = comic.deck || comic.description || "No description found.";
+          choice.Poster = comic.image?.super_url;
+          choice.Year = comic.cover_date?.slice(0, 4);
+        }
+      } catch (err) {
+        console.error("ComicVine fetch failed:", err);
+      }
+    }
+
     setPicked({ ...choice, type });
   };
 
   return (
-    <div className="min-h-screen bg-[#0e0e0e] text-white font-press-start p-4 flex flex-col items-center">
-      <div className="bg-orange-600 border-4 border-blue-500 rounded-2xl shadow-lg p-6 w-full max-w-xl relative">
-        <h1 className="text-4xl font-bold mb-6 text-center text-orange-200 animate-pulse">📺 Media Boy</h1>
-        <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mb-6">
-          {Object.keys(media).map((category) => (
-            <button
-              key={category}
-              onClick={() => pickRandom(category)}
-              className="bg-blue-600 hover:bg-blue-700 active:translate-y-0.5 transition-all duration-150 rounded-lg py-2 px-4 capitalize text-sm border border-blue-300 shadow-md"
-            >
-              {category.replace(/([A-Z])/g, " $1").trim()}
-            </button>
-          ))}
-        </div>
+    <div className="min-h-screen bg-[#9cb76c] text-white font-press-start flex flex-col items-center justify-start p-6">
+      <div className="mb-6 flex flex-wrap gap-4 justify-center w-full max-w-xl">
+        {Object.keys(media).map((category) => (
+          <button
+            key={category}
+            onClick={() => pickRandom(category)}
+            className="bg-yellow-400 hover:bg-yellow-500 text-black font-bold rounded-lg py-4 px-8 capitalize text-sm border-4 border-black shadow-lg"
+          >
+            {category.replace(/([A-Z])/g, " $1").trim()}
+          </button>
+        ))}
+      </div>
 
+      <div className="bg-gray-800 border-4 border-blue-400 rounded-2xl p-6 shadow-inner w-[90%] max-w-3xl">
+        <h1 className="text-3xl font-bold mb-4 text-orange-300 text-center">📺 Media Boy</h1>
         {picked && (
-          <div className="bg-gray-800 border border-blue-400 rounded-xl p-6 text-center shadow-inner relative screen">
-            <div className="absolute inset-0 pointer-events-none z-10 opacity-10 bg-[repeating-linear-gradient(to_bottom,white_0px,white_1px,transparent_1px,transparent_3px)] rounded-xl" />
-            <h2 className="text-3xl font-bold text-orange-200 mb-2 z-20 relative">{picked.Title}</h2>
-            {picked.Year && <p className="text-blue-300 text-lg z-20 relative">({picked.Year})</p>}
-            {picked.Description && <p className="mt-3 text-sm text-gray-300 leading-relaxed z-20 relative">{picked.Description}</p>}
+          <div className="bg-gray-700 border border-blue-300 rounded-xl p-6 text-center">
+            <h2 className="text-3xl font-bold text-orange-200 mb-2">{picked.Title}</h2>
+            {picked.Year && <p className="text-blue-300 text-lg">({picked.Year})</p>}
+            {picked.Description && <p className="mt-3 text-sm text-gray-300 leading-relaxed">{picked.Description}</p>}
             {picked.Poster && (
               <img
                 src={picked.Poster}
                 alt={picked.Title}
-                className="mt-5 rounded-lg max-h-64 mx-auto border border-blue-300 z-20 relative"
+                className="mt-5 rounded-lg max-h-64 mx-auto border border-blue-300"
               />
             )}
-            <p className="text-xs mt-3 text-gray-400 italic z-20 relative">🎲 Category: {picked.type}</p>
+            <p className="text-xs mt-3 text-gray-400 italic">🎲 Category: {picked.type}</p>
           </div>
         )}
       </div>

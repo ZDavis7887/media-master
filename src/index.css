@@ -27,3 +27,11 @@
   .bg-\[\#0e0e0e\] {
     background-color: #9cb76c;
   }
+
+  .capitalize {
+  text-transform: capitalize;
+  background:#fbca0a;
+  width: 14%;
+  font-size: 21px;
+  border-width:1px;
+  }
