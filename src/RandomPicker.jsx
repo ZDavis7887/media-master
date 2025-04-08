@@ -64,33 +64,34 @@ export default function RandomPicker() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-900 text-white font-mono p-4 flex flex-col items-center">
-      <div className="bg-orange-600 border-4 border-blue-500 rounded-2xl shadow-lg p-6 w-full max-w-xl">
-        <h1 className="text-4xl font-bold mb-6 text-center">📺 Media Boy</h1>
-        <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mb-6">
+    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-white font-mono p-6 flex flex-col items-center">
+      <div className="bg-orange-500 border-4 border-blue-600 rounded-3xl shadow-2xl p-8 w-full max-w-2xl">
+        <h1 className="text-5xl font-bold mb-8 text-center text-shadow-xl drop-shadow-md text-yellow-100">🎮 MEDIA BOY</h1>
+        
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 mb-8">
           {Object.keys(media).map((category) => (
             <button
               key={category}
               onClick={() => pickRandom(category)}
-              className="bg-blue-600 hover:bg-blue-700 rounded-lg py-2 px-4 capitalize text-sm"
+              className="bg-blue-700 hover:bg-blue-800 active:scale-95 transition-transform rounded-xl py-3 px-5 capitalize text-sm text-white shadow-md"
             >
               {category.replace(/([A-Z])/g, " $1").trim()}
             </button>
           ))}
         </div>
         {picked && (
-          <div className="bg-gray-800 border border-blue-300 rounded-lg p-4 text-center">
-            <h2 className="text-2xl font-bold text-orange-300">{picked.Title}</h2>
-            {picked.Year && <p className="text-blue-400">({picked.Year})</p>}
-            {picked.Description && <p className="mt-2 text-sm text-gray-300">{picked.Description}</p>}
+          <div className="bg-gray-800 border border-blue-400 rounded-xl p-6 text-center shadow-inner">
+            <h2 className="text-3xl font-bold text-orange-200 mb-2">{picked.Title}</h2>
+            {picked.Year && <p className="text-blue-300 text-lg">({picked.Year})</p>}
+            {picked.Description && <p className="mt-3 text-sm text-gray-300 leading-relaxed">{picked.Description}</p>}
             {picked.Poster && (
               <img
                 src={picked.Poster}
                 alt={picked.Title}
-                className="mt-4 rounded max-h-64 mx-auto"
+                className="mt-5 rounded-lg max-h-64 mx-auto border border-blue-300"
               />
             )}
-            <p className="text-xs mt-2 text-gray-500">🎲 Category: {picked.type}</p>
+            <p className="text-xs mt-3 text-gray-400 italic">🎲 Category: {picked.type}</p>
           </div>
         )}
       </div>
