@@ -62,6 +62,26 @@ export default function RandomPicker() {
       }
     }
 
+    if (type === "shows" && choice?.Title) {
+      const cleanedTitle = cleanTitle(choice.Title);
+      try {
+        console.log("📺 Fetching TMDB for show:", cleanedTitle);
+        const searchRes = await fetch(
+          `https://api.themoviedb.org/3/search/tv?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanedTitle)}`
+        );
+        const searchData = await searchRes.json();
+
+        if (searchData.results?.length) {
+          const showDetails = searchData.results[0];
+          choice.Description = showDetails.overview;
+          choice.Poster = `https://image.tmdb.org/t/p/w500${showDetails.poster_path}`;
+          choice.Year = showDetails.first_air_date?.slice(0, 4);
+        }
+      } catch (err) {
+        console.error("TMDB TV fetch failed:", err);
+      }
+    }
+
     if (type === "games" && choice?.Title) {
       const cleanedTitle = cleanTitle(choice.Title);
       try {
