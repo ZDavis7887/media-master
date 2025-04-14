@@ -13,6 +13,7 @@ export default function RandomPicker() {
   const [picked, setPicked] = useState(null);
 
   const TMDB_API_KEY = import.meta.env.VITE_TMDB_API_KEY;
+  const COMICVINE_API_KEY = import.meta.env.VITE_COMICVINE_API_KEY;
 
   useEffect(() => {
     Promise.all([
@@ -40,44 +41,42 @@ export default function RandomPicker() {
     ) || [];
 
     const choice = entries[Math.floor(Math.random() * entries.length)];
-    const cleanedTitle = cleanTitle(choice?.Title || "");
 
-    // TMDB: for movies & documentaries
-    if (["movies", "documentaries"].includes(type) && cleanedTitle) {
+    const isTMDBCategory = ["movies", "documentaries"].includes(type);
+    if (isTMDBCategory && choice?.Title) {
+      const cleanedTitle = cleanTitle(choice.Title);
       try {
+        console.log("🎬 Fetching TMDB for:", cleanedTitle);
         const searchRes = await fetch(
           `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanedTitle)}`
         );
-        const data = await searchRes.json();
-        console.log("🎬 TMDB:", data);
+        const searchData = await searchRes.json();
+        console.log("TMDB search results:", searchData);
 
-        if (data.results?.length) {
-          const result = data.results[0];
-          choice.Description = result.overview;
-          choice.Poster = result.poster_path
-            ? `https://image.tmdb.org/t/p/w500${result.poster_path}`
-            : null;
-          choice.Year = result.release_date?.slice(0, 4);
+        if (searchData.results?.length) {
+          const movieDetails = searchData.results[0];
+          choice.Description = movieDetails.overview;
+          choice.Poster = `https://image.tmdb.org/t/p/w500${movieDetails.poster_path}`;
+          choice.Year = movieDetails.release_date?.slice(0, 4);
         }
       } catch (err) {
         console.error("TMDB fetch failed:", err);
       }
     }
 
-    // IGDB: for games
-    if (type === "games" && cleanedTitle) {
+    if (type === "games" && choice?.Title) {
+      const cleanedTitle = cleanTitle(choice.Title);
       try {
-        const response = await fetch(`http://localhost:3001/igdb?query=${encodeURIComponent(cleanedTitle)}`);
+        const response = await fetch(
+          `http://localhost:3001/igdb?query=${encodeURIComponent(cleanedTitle)}`
+        );
         const data = await response.json();
-        console.log("🎮 IGDB:", data);
 
         if (data.length) {
           const game = data[0];
           choice.Description = game.summary || "No description available.";
           choice.Poster = game.cover?.url?.replace("t_thumb", "t_cover_big");
-          choice.Year = game.first_release_date
-            ? new Date(game.first_release_date * 1000).getFullYear()
-            : null;
+          choice.Year = game.first_release_date ? new Date(game.first_release_date * 1000).getFullYear() : null;
           choice.Genres = game.genres?.map((g) => g.name).join(", ");
         }
       } catch (err) {
@@ -85,20 +84,21 @@ export default function RandomPicker() {
       }
     }
 
-    // ComicVine: for comics & graphic novels
-    if ((type === "comics" || type === "graphicNovels") && cleanedTitle) {
+    if ((type === "comics" || type === "graphicNovels") && choice?.Title) {
+      const cleanedTitle = cleanTitle(choice.Title);
       try {
-        const response = await fetch(`http://localhost:3001/comicvine?query=${encodeURIComponent(cleanedTitle)}`);
+        const response = await fetch(
+          `http://localhost:3001/comicvine?query=${encodeURIComponent(cleanedTitle)}`
+        );
         const data = await response.json();
-        console.log("📚 ComicVine:", data);
 
         if (data.results?.length) {
           const comic = data.results[0];
-          choice.Description = comic.deck || comic.description || "No description available.";
-          choice.Poster = comic.image?.super_url || null;
+          choice.Description = comic.deck || comic.description || "No description found.";
+          choice.Poster = comic.image?.super_url;
           choice.Year = comic.cover_date?.slice(0, 4);
           choice.Publisher = comic.publisher?.name;
-          choice.Characters = comic.character_credits?.slice(0, 5).map((c) => c.name).join(", ");
+          choice.Characters = comic.character_credits?.slice(0, 5).map((char) => char.name).join(", ");
         }
       } catch (err) {
         console.error("ComicVine fetch failed:", err);
