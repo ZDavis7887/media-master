@@ -13,7 +13,6 @@ export default function RandomPicker() {
   const [picked, setPicked] = useState(null);
 
   const TMDB_API_KEY = import.meta.env.VITE_TMDB_API_KEY;
-  const COMICVINE_API_KEY = import.meta.env.VITE_COMICVINE_API_KEY;
 
   useEffect(() => {
     Promise.all([
@@ -41,39 +40,65 @@ export default function RandomPicker() {
     ) || [];
 
     const choice = entries[Math.floor(Math.random() * entries.length)];
+    const cleanedTitle = cleanTitle(choice?.Title || "");
 
-    if (type === "movies" && choice?.Title) {
-      const cleanedTitle = cleanTitle(choice.Title);
+    // TMDB: for movies & documentaries
+    if (["movies", "documentaries"].includes(type) && cleanedTitle) {
       try {
         const searchRes = await fetch(
           `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanedTitle)}`
         );
-        const searchData = await searchRes.json();
+        const data = await searchRes.json();
+        console.log("🎬 TMDB:", data);
 
-        if (searchData.results?.length) {
-          const movieDetails = searchData.results[0];
-          choice.Description = movieDetails.overview;
-          choice.Poster = `https://image.tmdb.org/t/p/w500${movieDetails.poster_path}`;
-          choice.Year = movieDetails.release_date?.slice(0, 4);
+        if (data.results?.length) {
+          const result = data.results[0];
+          choice.Description = result.overview;
+          choice.Poster = result.poster_path
+            ? `https://image.tmdb.org/t/p/w500${result.poster_path}`
+            : null;
+          choice.Year = result.release_date?.slice(0, 4);
         }
       } catch (err) {
         console.error("TMDB fetch failed:", err);
       }
     }
 
-    if ((type === "comics" || type === "graphicNovels") && choice?.Title) {
-      const cleanedTitle = cleanTitle(choice.Title);
+    // IGDB: for games
+    if (type === "games" && cleanedTitle) {
       try {
-        const response = await fetch(
-          `http://localhost:3001/comicvine?query=${encodeURIComponent(cleanedTitle)}`
-        );
+        const response = await fetch(`http://localhost:3001/igdb?query=${encodeURIComponent(cleanedTitle)}`);
         const data = await response.json();
+        console.log("🎮 IGDB:", data);
+
+        if (data.length) {
+          const game = data[0];
+          choice.Description = game.summary || "No description available.";
+          choice.Poster = game.cover?.url?.replace("t_thumb", "t_cover_big");
+          choice.Year = game.first_release_date
+            ? new Date(game.first_release_date * 1000).getFullYear()
+            : null;
+          choice.Genres = game.genres?.map((g) => g.name).join(", ");
+        }
+      } catch (err) {
+        console.error("IGDB fetch failed:", err);
+      }
+    }
+
+    // ComicVine: for comics & graphic novels
+    if ((type === "comics" || type === "graphicNovels") && cleanedTitle) {
+      try {
+        const response = await fetch(`http://localhost:3001/comicvine?query=${encodeURIComponent(cleanedTitle)}`);
+        const data = await response.json();
+        console.log("📚 ComicVine:", data);
 
         if (data.results?.length) {
           const comic = data.results[0];
-          choice.Description = comic.deck || comic.description || "No description found.";
-          choice.Poster = comic.image?.super_url;
+          choice.Description = comic.deck || comic.description || "No description available.";
+          choice.Poster = comic.image?.super_url || null;
           choice.Year = comic.cover_date?.slice(0, 4);
+          choice.Publisher = comic.publisher?.name;
+          choice.Characters = comic.character_credits?.slice(0, 5).map((c) => c.name).join(", ");
         }
       } catch (err) {
         console.error("ComicVine fetch failed:", err);
@@ -111,6 +136,9 @@ export default function RandomPicker() {
                 className="mt-5 rounded-lg max-h-64 mx-auto border border-blue-300"
               />
             )}
+            {picked.Publisher && <p className="text-sm mt-3 text-purple-300">Publisher: {picked.Publisher}</p>}
+            {picked.Characters && <p className="text-sm mt-1 text-teal-300">Characters: {picked.Characters}</p>}
+            {picked.Genres && <p className="text-sm mt-1 text-green-300">Genres: {picked.Genres}</p>}
             <p className="text-xs mt-3 text-gray-400 italic">🎲 Category: {picked.type}</p>
           </div>
         )}
