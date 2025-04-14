@@ -2,14 +2,12 @@ import express from "express";
 import cors from "cors";
 import fetch from "node-fetch";
 import dotenv from "dotenv";
-
 dotenv.config();
 
 const app = express();
 const PORT = 3001;
 
 app.use(cors());
-app.use(express.json());
 
 let twitchAccessToken = process.env.TWITCH_ACCESS_TOKEN;
 const twitchClientId = process.env.TWITCH_CLIENT_ID;
@@ -32,11 +30,10 @@ async function refreshTwitchToken() {
   }
 }
 
-// Refresh the token immediately, then every 24 hours
-refreshTwitchToken();
+// Refresh the token every 24 hours
 setInterval(refreshTwitchToken, 24 * 60 * 60 * 1000);
+refreshTwitchToken();
 
-// ComicVine Proxy
 app.get("/comicvine", async (req, res) => {
   const { query } = req.query;
   const apiKey = process.env.VITE_COMICVINE_API_KEY;
@@ -56,7 +53,6 @@ app.get("/comicvine", async (req, res) => {
   }
 });
 
-// IGDB Proxy
 app.get("/igdb", async (req, res) => {
   const { query } = req.query;
   const url = "https://api.igdb.com/v4/games";
@@ -79,6 +75,29 @@ app.get("/igdb", async (req, res) => {
     res.status(500).json({ error: "IGDB fetch failed" });
   }
 });
+
+// 📚 Google Books API Proxy
+app.get("/googlebooks", async (req, res) => {
+  const query = req.query.query;
+
+  try {
+    const response = await fetch(
+      `https://www.googleapis.com/books/v1/volumes?q=${encodeURIComponent(query)}`
+    );
+    
+    // Check if response is OK before parsing
+    if (!response.ok) {
+      throw new Error(`Google Books API returned ${response.status}`);
+    }
+
+    const data = await response.json();
+    res.json(data);
+  } catch (err) {
+    console.error("Google Books fetch failed:", err);
+    res.status(500).json({ error: "Google Books fetch failed" });
+  }
+});
+
 
 app.listen(PORT, () => {
   console.log(`🚀 Proxy server running on http://localhost:${PORT}`);

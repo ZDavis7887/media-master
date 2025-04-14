@@ -46,12 +46,10 @@ export default function RandomPicker() {
     if (isTMDBCategory && choice?.Title) {
       const cleanedTitle = cleanTitle(choice.Title);
       try {
-        console.log("🎬 Fetching TMDB for:", cleanedTitle);
         const searchRes = await fetch(
           `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanedTitle)}`
         );
         const searchData = await searchRes.json();
-        console.log("TMDB search results:", searchData);
 
         if (searchData.results?.length) {
           const movieDetails = searchData.results[0];
@@ -102,6 +100,26 @@ export default function RandomPicker() {
         }
       } catch (err) {
         console.error("ComicVine fetch failed:", err);
+      }
+    }
+
+    if (type === "books" && choice?.Title) {
+      const cleanedTitle = cleanTitle(choice.Title);
+      try {
+        const response = await fetch(
+          `http://localhost:3001/googlebooks?query=${encodeURIComponent(cleanedTitle)}`
+        );
+        const data = await response.json();
+        const book = data.items?.[0]?.volumeInfo;
+
+        if (book) {
+          choice.Description = book.description || "No description found.";
+          choice.Poster = book.imageLinks?.thumbnail;
+          choice.Year = book.publishedDate?.slice(0, 4);
+          choice.Publisher = book.publisher;
+        }
+      } catch (err) {
+        console.error("Google Books fetch failed:", err);
       }
     }
 
