@@ -3,7 +3,13 @@
     "Title": "...ALL THE MARBLES (Aldrich);",
     "Year": null,
     "Watched": false,
-    "Random Movie": "MELANCHOLIA (Lars Von Trier)"
+    "Random Movie": "Signalman, The"
+  },
+  {
+    "Title": "‘Burbs, the",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
   },
   {
     "Title": "[REC] (Jaume Balagueró & Paco Plaza)",
@@ -732,6 +738,12 @@
     "Random Movie": null
   },
   {
+    "Title": "Abyss, The",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "ACCIDENTAL TOURIST, The (Kasdan)",
     "Year": null,
     "Watched": false,
@@ -830,7 +842,7 @@
   {
     "Title": "Afire",
     "Year": null,
-    "Watched": false,
+    "Watched": true,
     "Random Movie": null
   },
   {
@@ -1212,6 +1224,12 @@
     "Random Movie": null
   },
   {
+    "Title": "American Rickshaw",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "American Utopia",
     "Year": null,
     "Watched": false,
@@ -1262,6 +1280,12 @@
   {
     "Title": "An Injury to One",
     "Year": 2002.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
+    "Title": "An Innocent Man",
+    "Year": 1989.0,
     "Watched": false,
     "Random Movie": null
   },
@@ -2286,8 +2310,20 @@
     "Random Movie": null
   },
   {
+    "Title": "Beyond Dreams Door",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "Beyond Reasonable Doubt",
     "Year": 1956.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
+    "Title": "Beyond the Door III",
+    "Year": 1989.0,
     "Watched": false,
     "Random Movie": null
   },
@@ -2652,6 +2688,12 @@
     "Random Movie": null
   },
   {
+    "Title": "Blind Fury",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "Blink Twice (2024)",
     "Year": null,
     "Watched": false,
@@ -2817,6 +2859,12 @@
     "Title": "BLUE VELVET (David Lynch)",
     "Year": null,
     "Watched": true,
+    "Random Movie": null
+  },
+  {
+    "Title": "Blue Vengeance",
+    "Year": 1989.0,
+    "Watched": false,
     "Random Movie": null
   },
   {
@@ -3122,6 +3170,12 @@
   {
     "Title": "Breaking and Entering",
     "Year": 2006.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
+    "Title": "Breaking In",
+    "Year": 1989.0,
     "Watched": false,
     "Random Movie": null
   },
@@ -3744,6 +3798,12 @@
     "Random Movie": null
   },
   {
+    "Title": "Chameleon Street",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "CHANGELING (Eastwood)",
     "Year": null,
     "Watched": false,
@@ -3948,6 +4008,12 @@
     "Random Movie": null
   },
   {
+    "Title": "Church, The",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "CIDER HOUSE RULES, The (Hallstrom)",
     "Year": null,
     "Watched": false,
@@ -4137,6 +4203,12 @@
     "Title": "COHERENCE (James Ward Byrkit)",
     "Year": null,
     "Watched": true,
+    "Random Movie": null
+  },
+  {
+    "Title": "Cold Light of Day",
+    "Year": 1989.0,
+    "Watched": false,
     "Random Movie": null
   },
   {
@@ -5352,6 +5424,12 @@
     "Random Movie": null
   },
   {
+    "Title": "Depeche Mode 101",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "DERSU UZALA (Akira Kurosawa)",
     "Year": null,
     "Watched": false,
@@ -5450,6 +5528,12 @@
   {
     "Title": "DIABOLIQUE (Henri-Georges Clouzot)",
     "Year": null,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
+    "Title": "Dial Code Santa Clause",
+    "Year": 1989.0,
     "Watched": false,
     "Random Movie": null
   },
@@ -5811,6 +5895,12 @@
     "Title": "DR STRANGELOVE, OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB (Stanley Kubrick)",
     "Year": null,
     "Watched": true,
+    "Random Movie": null
+  },
+  {
+    "Title": "Dr. Caligari",
+    "Year": 1989.0,
+    "Watched": false,
     "Random Movie": null
   },
   {
@@ -6894,6 +6984,12 @@
     "Random Movie": null
   },
   {
+    "Title": "Field of Dreams",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "FIFTH CORD, The (Bazzoni)",
     "Year": null,
     "Watched": false,
@@ -6974,6 +7070,12 @@
   {
     "Title": "Firm, The",
     "Year": 1993.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
+    "Title": "Firm, The",
+    "Year": 1989.0,
     "Watched": false,
     "Random Movie": null
   },
@@ -9108,6 +9210,12 @@
     "Random Movie": null
   },
   {
+    "Title": "House of Clocks, The",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "HOUSE OF GAMES (David Mamet)",
     "Year": null,
     "Watched": false,
@@ -9416,6 +9524,12 @@
   {
     "Title": "I Wanna Hold Your Hand (1978)",
     "Year": null,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
+    "Title": "I Want to go Home",
+    "Year": 1989.0,
     "Watched": false,
     "Random Movie": null
   },
@@ -9932,7 +10046,7 @@
   {
     "Title": "IRREVERSIBLE (Noe)",
     "Year": null,
-    "Watched": false,
+    "Watched": true,
     "Random Movie": null
   },
   {
@@ -10208,6 +10322,12 @@
   {
     "Title": "JOHNNY GUITAR (Nicholas Ray)",
     "Year": null,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
+    "Title": "Johnny Handsome",
+    "Year": 1989.0,
     "Watched": false,
     "Random Movie": null
   },
@@ -11286,6 +11406,12 @@
     "Random Movie": null
   },
   {
+    "Title": "Leningrad Cowboys Go America",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "LÉON: THE PROFESSIONAL (Besson);",
     "Year": null,
     "Watched": true,
@@ -11366,6 +11492,12 @@
   {
     "Title": "LET'S SCARE JESSICA TO DEATH (Hancock)",
     "Year": null,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
+    "Title": "Lethal Weapon 2",
+    "Year": 1989.0,
     "Watched": false,
     "Random Movie": null
   },
@@ -13374,6 +13506,12 @@
     "Random Movie": null
   },
   {
+    "Title": "Mystery Train",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "NAKED (Mike Leigh)",
     "Year": null,
     "Watched": false,
@@ -13550,6 +13688,12 @@
   {
     "Title": "New York New York (Lee)",
     "Year": null,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
+    "Title": "New York Stories",
+    "Year": 1989.0,
     "Watched": false,
     "Random Movie": null
   },
@@ -16224,6 +16368,12 @@
     "Random Movie": null
   },
   {
+    "Title": "Road House",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "Road to Hong Kong, The",
     "Year": 1962.0,
     "Watched": false,
@@ -16866,6 +17016,12 @@
     "Random Movie": null
   },
   {
+    "Title": "Sea of Love",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "SEABISCUIT (Ross); ",
     "Year": null,
     "Watched": false,
@@ -17234,6 +17390,12 @@
   {
     "Title": "Shock Doctrine, The",
     "Year": 2007.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
+    "Title": "Shocker",
+    "Year": 1989.0,
     "Watched": false,
     "Random Movie": null
   },
@@ -19956,6 +20118,12 @@
     "Random Movie": null
   },
   {
+    "Title": "Unbelievable Truth, Ther",
+    "Year": 1989.0,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
     "Title": "Uncommon Valor (1983)",
     "Year": null,
     "Watched": false,
@@ -20042,6 +20210,12 @@
   {
     "Title": "Unknown, The (1927)",
     "Year": null,
+    "Watched": false,
+    "Random Movie": null
+  },
+  {
+    "Title": "Unmasked Part 25",
+    "Year": 1989.0,
     "Watched": false,
     "Random Movie": null
   },
