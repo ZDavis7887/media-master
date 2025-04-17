@@ -8,7 +8,8 @@ export default function RandomPicker() {
     comics: [],
     graphicNovels: [],
     shows: [],
-    documentaries: []
+    documentaries: [],
+    anime: []
   });
   const [picked, setPicked] = useState(null);
 
@@ -17,18 +18,19 @@ export default function RandomPicker() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/data/cleaned_movies.json").then((res) => res.json()),
-      fetch("/data/games.json").then((res) => res.json()),
-      fetch("/data/cleaned_books.json").then((res) => res.json()),
-      fetch("/data/comics.json").then((res) => res.json()),
-      fetch("/data/graphic_novels.json").then((res) => res.json()),
-      fetch("/data/shows.json").then((res) => res.json()),
-      fetch("/data/documentaries.json").then((res) => res.json())
+      fetch("/data/cleaned_movies.json").then(res => res.json()),
+      fetch("/data/games.json").then(res => res.json()),
+      fetch("/data/cleaned_books.json").then(res => res.json()),
+      fetch("/data/comics.json").then(res => res.json()),
+      fetch("/data/graphic_novels.json").then(res => res.json()),
+      fetch("/data/shows.json").then(res => res.json()),
+      fetch("/data/documentaries.json").then(res => res.json()),
+      fetch("/data/anime.json").then(res => res.json())
     ])
-      .then(([movies, games, books, comics, graphicNovels, shows, documentaries]) => {
-        setMedia({ movies, games, books, comics, graphicNovels, shows, documentaries });
-      })
-      .catch((err) => console.error("Failed to load media data:", err));
+    .then(([movies, games, books, comics, graphicNovels, shows, documentaries, anime]) => {
+      setMedia({ movies, games, books, comics, graphicNovels, shows, documentaries, anime });
+    })
+    .catch(err => console.error("Failed to load media data:", err));
   }, []);
 
   const cleanTitle = (title) => {
@@ -36,13 +38,14 @@ export default function RandomPicker() {
   };
 
   const pickRandom = async (type) => {
-    const entries = media[type]?.filter((m) =>
+    const entries = media[type]?.filter(m => 
       typeof m.Watched === "string" ? m.Watched.toLowerCase() !== "yes" : true
     ) || [];
 
     const choice = entries[Math.floor(Math.random() * entries.length)];
 
-    const isTMDBCategory = ["movies", "documentaries"].includes(type);
+    const isTMDBCategory = ["movies", "documentaries", "shows"].includes(type);
+
     if (isTMDBCategory && choice?.Title) {
       const cleanedTitle = cleanTitle(choice.Title);
       try {
@@ -52,42 +55,20 @@ export default function RandomPicker() {
         const searchData = await searchRes.json();
 
         if (searchData.results?.length) {
-          const movieDetails = searchData.results[0];
-          choice.Description = movieDetails.overview;
-          choice.Poster = `https://image.tmdb.org/t/p/w500${movieDetails.poster_path}`;
-          choice.Year = movieDetails.release_date?.slice(0, 4);
+          const result = searchData.results[0];
+          choice.Description = result.overview;
+          choice.Poster = result.poster_path ? `https://image.tmdb.org/t/p/w500${result.poster_path}` : null;
+          choice.Year = result.release_date?.slice(0, 4);
         }
       } catch (err) {
         console.error("TMDB fetch failed:", err);
       }
     }
 
-    if (type === "shows" && choice?.Title) {
-      const cleanedTitle = cleanTitle(choice.Title);
-      try {
-        console.log("📺 Fetching TMDB for show:", cleanedTitle);
-        const searchRes = await fetch(
-          `https://api.themoviedb.org/3/search/tv?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanedTitle)}`
-        );
-        const searchData = await searchRes.json();
-
-        if (searchData.results?.length) {
-          const showDetails = searchData.results[0];
-          choice.Description = showDetails.overview;
-          choice.Poster = `https://image.tmdb.org/t/p/w500${showDetails.poster_path}`;
-          choice.Year = showDetails.first_air_date?.slice(0, 4);
-        }
-      } catch (err) {
-        console.error("TMDB TV fetch failed:", err);
-      }
-    }
-
     if (type === "games" && choice?.Title) {
       const cleanedTitle = cleanTitle(choice.Title);
       try {
-        const response = await fetch(
-          `http://localhost:3001/igdb?query=${encodeURIComponent(cleanedTitle)}`
-        );
+        const response = await fetch(`http://localhost:3001/igdb?query=${encodeURIComponent(cleanedTitle)}`);
         const data = await response.json();
 
         if (data.length) {
@@ -95,7 +76,7 @@ export default function RandomPicker() {
           choice.Description = game.summary || "No description available.";
           choice.Poster = game.cover?.url?.replace("t_thumb", "t_cover_big");
           choice.Year = game.first_release_date ? new Date(game.first_release_date * 1000).getFullYear() : null;
-          choice.Genres = game.genres?.map((g) => g.name).join(", ");
+          choice.Genres = game.genres?.map(g => g.name).join(", ");
         }
       } catch (err) {
         console.error("IGDB fetch failed:", err);
@@ -105,9 +86,7 @@ export default function RandomPicker() {
     if ((type === "comics" || type === "graphicNovels") && choice?.Title) {
       const cleanedTitle = cleanTitle(choice.Title);
       try {
-        const response = await fetch(
-          `http://localhost:3001/comicvine?query=${encodeURIComponent(cleanedTitle)}`
-        );
+        const response = await fetch(`http://localhost:3001/comicvine?query=${encodeURIComponent(cleanedTitle)}`);
         const data = await response.json();
 
         if (data.results?.length) {
@@ -116,7 +95,7 @@ export default function RandomPicker() {
           choice.Poster = comic.image?.super_url;
           choice.Year = comic.cover_date?.slice(0, 4);
           choice.Publisher = comic.publisher?.name;
-          choice.Characters = comic.character_credits?.slice(0, 5).map((char) => char.name).join(", ");
+          choice.Characters = comic.character_credits?.slice(0, 5).map(c => c.name).join(", ");
         }
       } catch (err) {
         console.error("ComicVine fetch failed:", err);
@@ -126,9 +105,7 @@ export default function RandomPicker() {
     if (type === "books" && choice?.Title) {
       const cleanedTitle = cleanTitle(choice.Title);
       try {
-        const response = await fetch(
-          `http://localhost:3001/googlebooks?query=${encodeURIComponent(cleanedTitle)}`
-        );
+        const response = await fetch(`http://localhost:3001/googlebooks?query=${encodeURIComponent(cleanedTitle)}`);
         const data = await response.json();
         const book = data.items?.[0]?.volumeInfo;
 
@@ -149,7 +126,7 @@ export default function RandomPicker() {
   return (
     <div className="min-h-screen bg-[#9cb76c] text-white font-press-start flex flex-col items-center justify-start p-6">
       <div className="mb-6 flex flex-wrap gap-4 justify-center w-full max-w-xl">
-        {Object.keys(media).map((category) => (
+        {Object.keys(media).map(category => (
           <button
             key={category}
             onClick={() => pickRandom(category)}
