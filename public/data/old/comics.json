@@ -1,0 +1,7866 @@
+[
+  {
+    "Title": "52",
+    "Writer": "Various",
+    "Publisher": "DC",
+    "Run": 52.0,
+    "Read": false,
+    "Random Comic": "Daredevil"
+  },
+  {
+    "Title": "300",
+    "Writer": "Miller, Frank",
+    "Publisher": "Dark Horse",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "100 Bullets",
+    "Writer": "Azzarello, Brian",
+    "Publisher": "Vertigo",
+    "Run": 100.0,
+    "Read": true,
+    "Random Comic": null
+  },
+  {
+    "Title": "20th Century Boys",
+    "Writer": "Urasawa, Naoki",
+    "Publisher": "Manga",
+    "Run": 22.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "4 Kids Walk into a Bank",
+    "Writer": "Rosenberg, Matthew",
+    "Publisher": "Black Mask",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "7 Deadly Sins, The",
+    "Writer": "Chun, Tze",
+    "Publisher": "TKO Studios",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "A Bride's Story",
+    "Writer": "Mori, Kaoru",
+    "Publisher": "Manga",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "A Contract With God",
+    "Writer": "Eisner, Will",
+    "Publisher": "W.W. Norton & Company",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "A God Somewhere",
+    "Writer": "Arcudi, John",
+    "Publisher": "Wildstorm",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "A Shadowline Saga: Critical Mass",
+    "Writer": "Chichester, Daniel",
+    "Publisher": "Marvel",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "A Silent Voice",
+    "Writer": "Oima, Yoshitoki",
+    "Publisher": "Manga",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Abara",
+    "Writer": "Nihei, Tsutomu",
+    "Publisher": "Manga",
+    "Run": 2.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "About Betty's Boob",
+    "Writer": "Cazot, Vero",
+    "Publisher": "Archaia",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Absolute Batman",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Absolute Martian Manhunter",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Absolute Superman",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Absolute Wonder woman",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Acme Novelty Library, The",
+    "Writer": "Ware, Chris",
+    "Publisher": "ACME Novelty Library",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Acts of Evil",
+    "Writer": "Various",
+    "Publisher": "Marvel",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Adventure Time Comics",
+    "Writer": "Various",
+    "Publisher": "Boom!",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "After Nothing Comes",
+    "Writer": "Koch, Aidan",
+    "Publisher": "Koyama Press",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Age 16",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Age of Bronze",
+    "Writer": "Shanower, Eric",
+    "Publisher": "Image",
+    "Run": 35.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Age of X-Man: X-Tremists Agenda",
+    "Writer": "Williams, Leah",
+    "Publisher": "Marvel",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Akira",
+    "Writer": "Otomo, Katsuhiro",
+    "Publisher": "Manga",
+    "Run": 6.0,
+    "Read": true,
+    "Random Comic": null
+  },
+  {
+    "Title": "Alack Sinner",
+    "Writer": "Sampayo, Carlos",
+    "Publisher": "IDW",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Alec",
+    "Writer": "Campbell, Eddie",
+    "Publisher": "Top Shelf",
+    "Run": 30.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Alias",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Marvel",
+    "Run": 29.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Aliens: Dead Orbit",
+    "Writer": "Stokoe, James",
+    "Publisher": "Dark Horse",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "All the Answers",
+    "Writer": "Kupperman, Joel",
+    "Publisher": "Gallery 13",
+    "Run": 9.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "All You Need is Kill",
+    "Writer": "Sakurazaka, Hiroshi",
+    "Publisher": "Manga",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "All-New Guardians of the Galaxy",
+    "Writer": "Duggan, Gerry",
+    "Publisher": "Marvel",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "All-New Wolverine",
+    "Writer": "Taylor, Tom",
+    "Publisher": "Marvel",
+    "Run": 35.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "All-Star Batman",
+    "Writer": "Snyder, Scott",
+    "Publisher": "DC",
+    "Run": 14.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "All-Star Batman and Robin, The Boy Wonder",
+    "Writer": "Miller, Frank",
+    "Publisher": "DC",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Amazing Spider-Man",
+    "Writer": "Conway, Gerry",
+    "Publisher": "Marvel",
+    "Run": 38.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Amazing Spider-Man",
+    "Writer": "Straczynski, J. Michael",
+    "Publisher": "Marvel",
+    "Run": 78.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Amazing Spider-Man, The",
+    "Writer": "Waid, Mark",
+    "Publisher": "Marvel",
+    "Run": 23.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Amazing Spider-Man: Full Circle, The",
+    "Writer": "Various",
+    "Publisher": "Marvel",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Amazing Spider-Man: Kraven's Last Hunt",
+    "Writer": "David, Peter",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "American Elf",
+    "Writer": "Kochlka, James",
+    "Publisher": "Topshelf",
+    "Run": 70.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "American Flagg",
+    "Writer": "Chaykin, Howard",
+    "Publisher": "First Comics",
+    "Run": 50.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "American Gothic",
+    "Writer": "Edington, Ian",
+    "Publisher": "Rebellion Developments",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "And Then Emily Was Gone",
+    "Writer": "Lees, John",
+    "Publisher": "ComixTribe",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Animal Man",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "DC",
+    "Run": 32.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Animal Man",
+    "Writer": "Milligan, Peter",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Animal Man",
+    "Writer": "Morrison, Grant",
+    "Publisher": "DC",
+    "Run": 26.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Anne Frank's Diary: The Graphic Adaptation",
+    "Writer": "Folman, Ari",
+    "Publisher": "Pantheon",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Aquaman",
+    "Writer": "Abnett, Dan",
+    "Publisher": "DC",
+    "Run": 46.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Aquaman: Sub Diego",
+    "Writer": "Pfiefer, Will",
+    "Publisher": "DC",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Archie",
+    "Writer": "Waid, Mark",
+    "Publisher": "Archie",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Arrival, The",
+    "Writer": "Tan, Shaun",
+    "Publisher": "Hodder & Stoughton",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ask for Mercy",
+    "Writer": "Starkings, Richard",
+    "Publisher": "Comicraft",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Assassination Classroom",
+    "Writer": "Matsui, Yusei",
+    "Publisher": "Manga",
+    "Run": 21.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Asterios Polyp",
+    "Writer": "Mazzucchelli, David",
+    "Publisher": "Random House",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Astonishing Ant-Man",
+    "Writer": "Spencer, Nick",
+    "Publisher": "Marvel",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Astonishing X-Men",
+    "Writer": "Whedon, Joss",
+    "Publisher": "Marvel",
+    "Run": 69.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Astro City",
+    "Writer": "Waid, Mark",
+    "Publisher": "DC",
+    "Run": 100.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Attaboy",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Attack on Titan",
+    "Writer": "Isayame, Hajime",
+    "Publisher": "Manga",
+    "Run": 28.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Authority, The",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Wildstorm",
+    "Run": 30.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avatar: The Last Airbender",
+    "Writer": "Yang, Gene Luen",
+    "Publisher": "Dark Horse",
+    "Run": 48.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avatar: The Last Airbender",
+    "Writer": "Hicks, Faith Erin",
+    "Publisher": "Dark Horse",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avatar: The Last Airbender - The Lost Adventures",
+    "Writer": "Various",
+    "Publisher": "Dark Horse",
+    "Run": 9.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avatar: The Legend of Korra - Turf Wars",
+    "Writer": "DiMartino, Michael",
+    "Publisher": "Dark Horse",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avengers",
+    "Writer": "Busiek, Kurt",
+    "Publisher": "Marvel",
+    "Run": 70.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avengers A.I.",
+    "Writer": "Humphries, Sam",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avengers Academy",
+    "Writer": "Gage, Christos",
+    "Publisher": "Marvel",
+    "Run": 40.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avengers Arena/Undercover",
+    "Writer": "Hopeless, Dennis",
+    "Publisher": "Marvel",
+    "Run": 28.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avengers: Hawkeye: Earth's Mightiest Marksman",
+    "Writer": "Dixon, Chuck",
+    "Publisher": "Marvel",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avengers: No Surrender/No Road Home",
+    "Writer": "Various",
+    "Publisher": "Marvel",
+    "Run": 27.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avengers: The Initiative",
+    "Writer": "Slott, Dan",
+    "Publisher": "Marvel",
+    "Run": 35.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avengers: The Kree/Skrull War",
+    "Writer": "Thomas, Roy",
+    "Publisher": "Marvel",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Avengers/New Avengers/Infinity",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Marvel",
+    "Run": 83.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Babyteeth",
+    "Writer": "Cates, Donny",
+    "Publisher": "Aftershock",
+    "Run": 14.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Bacchus",
+    "Writer": "Campbell, Eddie",
+    "Publisher": "Top Shelf",
+    "Run": 51.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Bad Dreams in the Night",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Bakuman",
+    "Writer": "Ohba, Tsugumi",
+    "Publisher": "Manga",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ballad of Halo Jones, The",
+    "Writer": "Moore, Alan",
+    "Publisher": "Rebellion Developments",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Barrier",
+    "Writer": "Vaughan, Brian K.",
+    "Publisher": "Panel Syndicate",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batgirl",
+    "Writer": "Miller, Bryan Q.",
+    "Publisher": "DC",
+    "Run": 24.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batgirl Adventures",
+    "Writer": "Dini, Paul",
+    "Publisher": "DC",
+    "Run": 2.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batgirl: Year One",
+    "Writer": "Beatty, Scott",
+    "Publisher": "DC",
+    "Run": 9.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman",
+    "Writer": "King, Tom",
+    "Publisher": "DC",
+    "Run": 89.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman",
+    "Writer": "Snyder, Scott",
+    "Publisher": "DC",
+    "Run": 52.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman",
+    "Writer": "Morrison, Grant",
+    "Publisher": "DC",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman / Catwoman Collected",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman / Santa Clause: Silent Knight",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman & Robin: Year One",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman & Robin/Batman Incorporated",
+    "Writer": "Morrison, Grant",
+    "Publisher": "DC",
+    "Run": 55.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman Adventures",
+    "Writer": "Puckett, Kelly",
+    "Publisher": "DC",
+    "Run": 37.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman Adventures: Mad Love/Holiday Special",
+    "Writer": "Dini, Paul",
+    "Publisher": "DC",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman and Robin",
+    "Writer": "Tomasi, Peter J.",
+    "Publisher": "DC",
+    "Run": 62.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman Detective Comics 3: Gotham Nocturne Act II",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman Universe",
+    "Writer": "Bendis, Brian",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman Vol 4: Dark Prisons",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: Dark Age Collected",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: Dark Knight Dark City",
+    "Writer": "Milligan, Peter",
+    "Publisher": "DC",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: Dark Victory",
+    "Writer": "Loeb, Jeph",
+    "Publisher": "DC",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: Gotham After Midnight",
+    "Writer": "Niles, Steve",
+    "Publisher": "DC",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: Haunted Knight",
+    "Writer": "Loeb, Jeph",
+    "Publisher": "DC",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: Heart of Hush",
+    "Writer": "Dini, Paul",
+    "Publisher": "DC",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: Knight and Squire",
+    "Writer": "Cornell, Paul",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: Long Halloween",
+    "Writer": "Loeb, Jeph",
+    "Publisher": "DC",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: Night Cries",
+    "Writer": "Goodwin, Archie",
+    "Publisher": "DC",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: Streets of Gotham",
+    "Writer": "Dini, Paul",
+    "Publisher": "DC",
+    "Run": 21.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: The Cult",
+    "Writer": "Starlin, Jim",
+    "Publisher": "DC",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: The Dark Knight Returns",
+    "Writer": "Miller, Frank",
+    "Publisher": "DC",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: The Killing Joke",
+    "Writer": "Moore, Alan",
+    "Publisher": "DC",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: The Long Halloween: The Last Halloween (2024)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: Year 100 & Other Tales",
+    "Writer": "Pope, Paul",
+    "Publisher": "DC",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman: Year One",
+    "Writer": "Miller, Frank",
+    "Publisher": "DC",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman/Teenage Mutant Ninja Turtles (Vol I and II)",
+    "Writer": "Tynion IV, James",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batman/Teenage Mutant Ninja Turtles (Vol III)",
+    "Writer": "Tynion IV, James",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Battle Angel Alita",
+    "Writer": "Kishiro, Yukito",
+    "Publisher": "Manga",
+    "Run": 9.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Battlefields",
+    "Writer": "Ennis, Garth",
+    "Publisher": "Dynamite",
+    "Run": 40.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batwoman",
+    "Writer": "Rucka, Greg",
+    "Publisher": "DC",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Batwoman",
+    "Writer": "Bennet, Marguerite",
+    "Publisher": "DC",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Beanworld",
+    "Writer": "Marder, Larry",
+    "Publisher": "Dark Horse",
+    "Run": 55.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Beasts of Burden",
+    "Writer": "Dorkin, Evan",
+    "Publisher": "Dark Horse",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Beneath the Dead Oak Tree",
+    "Writer": "Carroll, Emily",
+    "Publisher": "ShortBox",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Beneath the Trees Where Nobodt Sees",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Berlin",
+    "Writer": "Lutes, Jason",
+    "Publisher": "Drawn and Quarterly",
+    "Run": 23.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Berserk",
+    "Writer": "Miura, Kentauro",
+    "Publisher": "Manga",
+    "Run": 40.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Big Jim and the White Boy",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Birds of Prey",
+    "Writer": "Simone, Gail",
+    "Publisher": "DC",
+    "Run": 50.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Birthright",
+    "Writer": "Williamson, Joshua",
+    "Publisher": "Image",
+    "Run": 35.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Black Cloak Vol 2",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Black Hole",
+    "Writer": "Burns, Charles",
+    "Publisher": "Fantagraphics",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Black Monday Murders, The",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Image",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Black Orchid",
+    "Writer": "Gaiman, Neil",
+    "Publisher": "Vertigo",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Black Order, The",
+    "Writer": "Landy, Derek",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Black Panther: World of Wakanda",
+    "Writer": "Gay, Roxane",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Black Science",
+    "Writer": "Remender, Rick",
+    "Publisher": "Image",
+    "Run": 42.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Black Widow",
+    "Writer": "Edmondson, Nathan",
+    "Publisher": "Marvel",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Black Widow",
+    "Writer": "Waid, Mark",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Black Widow: Kiss or Kill",
+    "Writer": "Swierczynski, Duane",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Black Widow: The Name of the Rose",
+    "Writer": "Liu, Marjorie",
+    "Publisher": "Marvel",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Blacksad",
+    "Writer": "Canales, Juan Diaz",
+    "Publisher": "Daragud",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Blame!",
+    "Writer": "Nihei, Tsutomu",
+    "Publisher": "Manga",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Blankets",
+    "Writer": "Thompson, Craig",
+    "Publisher": "Drawn and Quarterly",
+    "Run": 30.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Blast",
+    "Writer": "Larcenet, Manu",
+    "Publisher": "Europe Comics",
+    "Run": 40.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Bloodshot: Unleashed Collected",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Blue Beetle",
+    "Writer": "Giffen, Keith",
+    "Publisher": "DC",
+    "Run": 16.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Blurry",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Bone",
+    "Writer": "Smith, Jeff",
+    "Publisher": "Image",
+    "Run": 65.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Bone Parish Complete Collection",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Books of Magic",
+    "Writer": "Gaiman, Neil",
+    "Publisher": "Vertigo",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Boys, The",
+    "Writer": "Ennis, Garth",
+    "Publisher": "Dynamite",
+    "Run": 85.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Brat",
+    "Writer": "DeForge, Michael",
+    "Publisher": "Koyama Press",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Brat Pack",
+    "Writer": "Veitch, Rick",
+    "Publisher": "King Hell Press",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Briggs Land",
+    "Writer": "Wood, Brian",
+    "Publisher": "Dark Horse",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Brittle Joints",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Bug! The Adventures of Forager",
+    "Writer": "Allred, Laura",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Building Stories",
+    "Writer": "Ware, Chris",
+    "Publisher": "Pantheon",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "C.O.W.L.",
+    "Writer": "Higgins, Kyle",
+    "Publisher": "Image",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Cable",
+    "Writer": "Swierczynski, Duane",
+    "Publisher": "Marvel",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Cages",
+    "Writer": "McKean, Dave",
+    "Publisher": "Kitchen Sink Press",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Calvin and Hobbes",
+    "Writer": "Waterson, Bill",
+    "Publisher": "Andrews McMeel",
+    "Run": 58.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Camelot 3000",
+    "Writer": "Barr, Mike",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Captain America",
+    "Writer": "Brubaker, Ed",
+    "Publisher": "Marvel",
+    "Run": 69.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Captain America",
+    "Writer": "Remender, Rick",
+    "Publisher": "Marvel",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Captain America",
+    "Writer": "Waid, Mark",
+    "Publisher": "Marvel",
+    "Run": 50.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Captain America",
+    "Writer": "DeMatteis, J.M.",
+    "Publisher": "Marvel",
+    "Run": 39.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Captain Britain",
+    "Writer": "Moore, Alan",
+    "Publisher": "Marvel",
+    "Run": 28.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Captain Britain & MI13",
+    "Writer": "Cornell, Paul",
+    "Publisher": "Marvel",
+    "Run": 16.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Casanova",
+    "Writer": "Fraction, Matt",
+    "Publisher": "Image",
+    "Run": 24.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Catwoman",
+    "Writer": "Brubaker, Ed",
+    "Publisher": "DC",
+    "Run": 38.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Catwoman: Selinaâs Big Score",
+    "Writer": "Cooke, Darwyn",
+    "Publisher": "DC",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Catwoman: When in Rome",
+    "Writer": "Loeb, Jeph",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Cave Carson has a Cybernetic Eye",
+    "Writer": "Rivera, Jon",
+    "Publisher": "DC",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Cerebus",
+    "Writer": "Sim, Dave",
+    "Publisher": "Aardvark-Vanaheim",
+    "Run": 305.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Chainsaw Man Vol. 14-16",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Champions",
+    "Writer": "Waid, Mark",
+    "Publisher": "Marvel",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Champions",
+    "Writer": "Zub, Jim",
+    "Publisher": "Marvel",
+    "Run": 21.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Chew",
+    "Writer": "Layman, John",
+    "Publisher": "Image",
+    "Run": 60.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Chew (20090 Nomnibus)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Chrono Crusade",
+    "Writer": "Moriyama, Daisuke",
+    "Publisher": "Manga",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Claymore",
+    "Writer": "Yagi, Norihiro",
+    "Publisher": "Manga",
+    "Run": 27.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Clean Room",
+    "Writer": "Simone, Gail",
+    "Publisher": "Vertigo",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Colder",
+    "Writer": "Tobin, Paul",
+    "Publisher": "Dark Horse",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Come Again",
+    "Writer": "Powell, Nate",
+    "Publisher": "Top Shelf",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Conan",
+    "Writer": "Busiek, Kurt",
+    "Publisher": "Dark Horse",
+    "Run": 37.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Conan the Barbarian (2024)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Conan The Barbarian Vol 4: Frozen Faith",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Conan the Barbarian: Exodus",
+    "Writer": "Ribic, Esad",
+    "Publisher": "Marvel",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Conan/Red Sonja",
+    "Writer": "Simone, Gail",
+    "Publisher": "Dark Horse",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Concrete",
+    "Writer": "Chadwick, Paul",
+    "Publisher": "Dark Horse",
+    "Run": 36.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Convert Collected TBP",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Copperhead",
+    "Writer": "Faerber, Jay",
+    "Publisher": "Image",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Copra",
+    "Writer": "Fiffe, Michel",
+    "Publisher": "Copra Press",
+    "Run": 35.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Corto Maltese",
+    "Writer": "Pratt, Hugo",
+    "Publisher": "IDW",
+    "Run": 75.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Cosmic Ghost Rider",
+    "Writer": "Cates, Donny",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Courtney Crumrin",
+    "Writer": "Naifeh, Ted",
+    "Publisher": "Oni Press",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Creepshow Vol 3",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Crone Vol 2: Fatal Error",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Cross Game",
+    "Writer": "Adachi, Mitsuru",
+    "Publisher": "Manga",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Crossed: Badlands",
+    "Writer": "Gillen, Kieron",
+    "Publisher": "Avatar Press",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Crosswind",
+    "Writer": "Simone, Gail",
+    "Publisher": "Image",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Crow, The",
+    "Writer": "O'Barr, James",
+    "Publisher": "IDW",
+    "Run": 22.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Cyberpunk 2077 Kickdown",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Cyborg",
+    "Writer": "Semper, John",
+    "Publisher": "DC",
+    "Run": 24.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Damage Control",
+    "Writer": "McDuffie, Dwayne",
+    "Publisher": "Marvel",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daredevil",
+    "Writer": "Miller, Frank",
+    "Publisher": "Marvel",
+    "Run": 55.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daredevil",
+    "Writer": "Nocenti, Ann",
+    "Publisher": "Marvel",
+    "Run": 51.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daredevil",
+    "Writer": "Waid, Mark",
+    "Publisher": "Marvel",
+    "Run": 57.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daredevil",
+    "Writer": "Soule, Charles",
+    "Publisher": "Marvel",
+    "Run": 48.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daredevil",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Marvel",
+    "Run": 61.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daredevil",
+    "Writer": "Brubaker, Ed",
+    "Publisher": "Marvel",
+    "Run": 38.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daredevil",
+    "Writer": "Gale, Bob",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daredevil",
+    "Writer": "Smith, Kevin",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daredevil: End of Days",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Marvel",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daredevil: Woman Without Fear ",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daredevil: Yellow",
+    "Writer": "Loeb, Jeph",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daredevil/Punisher",
+    "Writer": "Soule, Charles",
+    "Publisher": "Marvel",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dark and Bloody, The",
+    "Writer": "Aldridge, Shawn",
+    "Publisher": "Vertigo",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dark Avengers",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Marvel",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dark Empty Void",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dark Knights of Steel Allwinter",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dark Nights: Metal",
+    "Writer": "Snyder, Scott",
+    "Publisher": "DC",
+    "Run": 26.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Days of Hate",
+    "Writer": "Kot, Ales",
+    "Publisher": "Image",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Daytripper",
+    "Writer": "Moon, Fabio",
+    "Publisher": "Vertigo",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "DC: New Frontier",
+    "Writer": "Cooke, Darwyn",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dead Dead Demon's Dededede Destruction",
+    "Writer": "Asano, Inio",
+    "Publisher": "Manga",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Deadpool",
+    "Writer": "Kelly, Joe",
+    "Publisher": "Marvel",
+    "Run": 71.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Deadpool",
+    "Writer": "Duggan, Gerry",
+    "Publisher": "Marvel",
+    "Run": 104.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Deadpool and Cable",
+    "Writer": "Nicieza, Fabian",
+    "Publisher": "Marvel",
+    "Run": 51.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Deadpool: Suicide Kings",
+    "Writer": "Benson, Mike",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Death",
+    "Writer": "Gaiman, Neil",
+    "Publisher": "Vertigo",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Death Note",
+    "Writer": "Ohba, Tsugumi",
+    "Publisher": "Manga",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Death of Captain Marvel, The",
+    "Writer": "Starlin, Jim",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Death Strikes: The Emperor of Atlantis",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Death Vigil",
+    "Writer": "Sejic, Stjepan",
+    "Publisher": "Image",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Deathstroke",
+    "Writer": "Priest, Christopher",
+    "Publisher": "DC",
+    "Run": 50.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Defenders",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Marvel",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Defenders",
+    "Writer": "Fraction, Matt",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dejah Thoris",
+    "Writer": "Chu, Amy",
+    "Publisher": "Dynamite",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Delicious in Dugeon",
+    "Writer": "Kui, Ryoko",
+    "Publisher": "Manga",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Demon Knights",
+    "Writer": "Cornell, Paul",
+    "Publisher": "DC",
+    "Run": 23.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Descender",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "Image",
+    "Run": 32.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Deviant Vol 1, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dial-H",
+    "Writer": "Mieville, China",
+    "Publisher": "DC",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Django/Zorro",
+    "Writer": "Tarentino, Quentin",
+    "Publisher": "Dynamite",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "DMZ",
+    "Writer": "Wood, Brian",
+    "Publisher": "Vertigo",
+    "Run": 72.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Do Gees See God",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Doctor Strange",
+    "Writer": "Aaron, Jason",
+    "Publisher": "Marvel",
+    "Run": 36.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Doctor Strange: The Oath",
+    "Writer": "Vaughan, Brian K.",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Doctor Who: The 15th Doctor",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dog Days of Summer",
+    "Writer": "Various",
+    "Publisher": "DC",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Doktor Sleepless",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Avatar Press",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Domain, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "DOOM (2024)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Doom 2099",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Marvel",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Doom Patrol",
+    "Writer": "Way, Gerard",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Doom Patrol",
+    "Writer": "Morrison, Grant",
+    "Publisher": "Vertigo",
+    "Run": 44.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Doomsday Clock",
+    "Writer": "Johns, Geoff",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dorohedoro",
+    "Writer": "Hayashida, Q",
+    "Publisher": "Manga",
+    "Run": 23.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dr. Stone",
+    "Writer": "Inagakiri, Riichiro",
+    "Publisher": "Manga",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dragonball",
+    "Writer": "Toriyama, Akira",
+    "Publisher": "Manga",
+    "Run": 42.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dregs, The",
+    "Writer": "Nadler, Lonnie",
+    "Publisher": "Black Mask",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Duck and Cover Collected ",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Duncan the Wonder Dog",
+    "Writer": "Hines, Adam",
+    "Publisher": "AdHouse Books",
+    "Run": 16.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dungeons and Dragons",
+    "Writer": "Rogers, John",
+    "Publisher": "IDW",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Dungeons and Dragons",
+    "Writer": "Zub, Jim",
+    "Publisher": "IDW",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Earth X",
+    "Writer": "Ross, Alex",
+    "Publisher": "Marvel",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Eightball",
+    "Writer": "Clowes, Daniel",
+    "Publisher": "Fantagraphics",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Elektra: Assassin",
+    "Writer": "Miller, Frank",
+    "Publisher": "Marvel",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Elephantmen",
+    "Writer": "Starkings, Richard",
+    "Publisher": "Image",
+    "Run": 88.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Empire",
+    "Writer": "Waid, Mark",
+    "Publisher": "Image",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Enigma",
+    "Writer": "Milligan, Peter",
+    "Publisher": "Vertigo",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Essential Calvin and Hobbes, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Essex County",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "Topshelf",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Eternals",
+    "Writer": "Kirby, Jack",
+    "Publisher": "Marvel",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Eternals",
+    "Writer": "Gaiman, Neil",
+    "Publisher": "Marvel",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Eternity Girl",
+    "Writer": "Visaggio, Magdalene",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ether",
+    "Writer": "Kindt, Matt",
+    "Publisher": "Dark Horse",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "EVE: Valkyrie",
+    "Writer": "Wood, Brian",
+    "Publisher": "Dark Horse",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ex Machina",
+    "Writer": "Vaughan, Brian K.",
+    "Publisher": "Wildstorm",
+    "Run": 54.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Excalibur",
+    "Writer": "Davis, Alan",
+    "Publisher": "Marvel",
+    "Run": 67.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Exiles",
+    "Writer": "Winick, Judd",
+    "Publisher": "Marvel",
+    "Run": 101.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Exiles",
+    "Writer": "Ahmed, Saladin",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Exit Stage Left: The Snagglepuss Chronicles",
+    "Writer": "Russell, Mark",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Extermination",
+    "Writer": "Brisson, Ed",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Extremity",
+    "Writer": "Johnson, Daniel Warren",
+    "Publisher": "Image",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Eyeshield 21",
+    "Writer": "Inagakiri, Riichiro",
+    "Publisher": "Manga",
+    "Run": 37.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fables",
+    "Writer": "Willingham, Bill",
+    "Publisher": "Vertigo",
+    "Run": 214.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fade Out, The",
+    "Writer": "Brubaker, Ed",
+    "Publisher": "Image",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fantastic Four",
+    "Writer": "Waid, Mark",
+    "Publisher": "Marvel",
+    "Run": 36.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fantastic Four",
+    "Writer": "Byrne, John",
+    "Publisher": "Marvel",
+    "Run": 65.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fantastic Four",
+    "Writer": "Kirby, Jack",
+    "Publisher": "Marvel",
+    "Run": 109.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fantastic Four by Ryan North Vol 4",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fantastic Four/FF",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Marvel",
+    "Run": 51.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fantastic our Imaginauts",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fatale",
+    "Writer": "Brubaker, Ed",
+    "Publisher": "Image",
+    "Run": 24.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fear Agent",
+    "Writer": "Remender, Rick",
+    "Publisher": "Image",
+    "Run": 32.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fearscape",
+    "Writer": "O'Sullivan, Ryan",
+    "Publisher": "Vault",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fearsome Doctor Fang, The",
+    "Writer": "Chun, Tze",
+    "Publisher": "TKO Studios",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Feeding Ghosts: A Graphic Memoir",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Femme Magnifique",
+    "Writer": "Various",
+    "Publisher": "Black Crown",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Feral Vol 2: Cat Lady",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Few, The",
+    "Writer": "Lewis, Sean",
+    "Publisher": "Image",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Final Crisis",
+    "Writer": "Morrison, Grant",
+    "Publisher": "DC",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Final Cut",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fishflies Collected",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fix, The",
+    "Writer": "Spencer, Nick",
+    "Publisher": "Image",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Flash",
+    "Writer": "Waid, Mark",
+    "Publisher": "DC",
+    "Run": 100.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Flash Gordon/Kings Cross/Kings Watch",
+    "Writer": "Parker, Jeff",
+    "Publisher": "Dynamite",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Flinstones, The",
+    "Writer": "Russell, Mark",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Flowers of Evil",
+    "Writer": "Oshimi, Shuzo",
+    "Publisher": "Manga",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Food School",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Food Wars!",
+    "Writer": "Tsukuda, Yuto",
+    "Publisher": "Manga",
+    "Run": 34.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "For Real",
+    "Writer": "Romberger, James",
+    "Publisher": "Uncivilized Books",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fourth World",
+    "Writer": "Kirby, Jack",
+    "Publisher": "DC",
+    "Run": 60.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Frankenstein: Agent of Shade",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "DC",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "FreakAngels",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Avatar Press",
+    "Run": 35.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Friendly Neighborhood Spider-Man",
+    "Writer": "Taylor, Tom",
+    "Publisher": "Marvel",
+    "Run": 14.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Frogpocalyse",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "From Far Away",
+    "Writer": "Hikawa, Kyoko",
+    "Publisher": "Manga",
+    "Run": 14.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "From Hell",
+    "Writer": "Moore, Alan",
+    "Publisher": "Topshelf",
+    "Run": 23.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Full Metal Alchemist",
+    "Writer": "Arakawa, Hiromu",
+    "Publisher": "Manga",
+    "Run": 27.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fun Home",
+    "Writer": "Bechdel, Alison",
+    "Publisher": "Mariner Books",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Fury MAX",
+    "Writer": "Ennis, Garth",
+    "Publisher": "Marvel",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "G.I. Joe",
+    "Writer": "Hama, Larry",
+    "Publisher": "Marvel",
+    "Run": 232.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "G.I. Joe (2024)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "G.I. Joe: Sierra Muerte",
+    "Writer": "Fiffe, Michel",
+    "Publisher": "IDW",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Gambit",
+    "Writer": "Asmus, James",
+    "Publisher": "Marvel",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Gantz",
+    "Writer": "Oku, Hiroya",
+    "Publisher": "Manga",
+    "Run": 37.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Generation X",
+    "Writer": "Lobdell, Scott",
+    "Publisher": "Marvel",
+    "Run": 28.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Get Naked",
+    "Writer": "Seagle, Steven T.",
+    "Publisher": "Image",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ghost World",
+    "Writer": "Clowes, Daniel",
+    "Publisher": "Fantagraphics",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ghostbusters",
+    "Writer": "Burnham, Erik",
+    "Publisher": "IDW",
+    "Run": 72.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Giant Days",
+    "Writer": "Allison, John",
+    "Publisher": "Boom!",
+    "Run": 62.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Giant-Size X-Men",
+    "Writer": "Wein, Len",
+    "Publisher": "Marvel",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Gintama",
+    "Writer": "Sorachi, Hideaki",
+    "Publisher": "Manga",
+    "Run": 77.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Girl in the Bay, The",
+    "Writer": "DeMatteis, J.M.",
+    "Publisher": "Dark Horse",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Girl Town",
+    "Writer": "Nowack, Carolyn",
+    "Publisher": "Top Shelf",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Girls",
+    "Writer": "Luna Brothers",
+    "Publisher": "Image",
+    "Run": 24.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Gleem",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Glitterbomb",
+    "Writer": "Zub, Jim",
+    "Publisher": "Image",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Global Frequency",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Wildstorm",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Glory",
+    "Writer": "Keatinge, Joe",
+    "Publisher": "Image",
+    "Run": 14.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Go-Bots",
+    "Writer": "Scioli, Tom",
+    "Publisher": "IDW",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "God Country",
+    "Writer": "Cates, Donny",
+    "Publisher": "Image",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "God Hates Astronauts",
+    "Writer": "Browne, Ryan",
+    "Publisher": "Image",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Goddamned, The",
+    "Writer": "Aaron, Jason",
+    "Publisher": "Image",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Godshaper",
+    "Writer": "Spurrier, Simon",
+    "Publisher": "Boom!",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Godzilla",
+    "Writer": "Stokoe, James",
+    "Publisher": "IDW",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Gogor",
+    "Writer": "Garing, Ken",
+    "Publisher": "Image",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Golden Kamuy",
+    "Writer": "Noda, Satoru",
+    "Publisher": "Manga",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Goodnight Paradise",
+    "Writer": "Dysart, Joshua",
+    "Publisher": "TKO Studios",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Goodnight Punpun",
+    "Writer": "Asano, Ino",
+    "Publisher": "Manga",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Goon, The",
+    "Writer": "Powell, Eric",
+    "Publisher": "Dark Horse",
+    "Run": 68.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Gotham Academy",
+    "Writer": "Cloonan, Becky",
+    "Publisher": "DC",
+    "Run": 38.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Gotham Central",
+    "Writer": "Rucka, Greg",
+    "Publisher": "DC",
+    "Run": 40.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Gotham City Sirens",
+    "Writer": "Dini, Paul",
+    "Publisher": "DC",
+    "Run": 26.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Gotham City Sirens Trigger Happy ",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Grand Blue Dreaming",
+    "Writer": "Inoue, Kenji",
+    "Publisher": "Manga",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Grass Kings",
+    "Writer": "Kindt, Matt",
+    "Publisher": "Boom!",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Arrow",
+    "Writer": "Grell, Mike",
+    "Publisher": "DC",
+    "Run": 86.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Arrow",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "DC",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Arrow",
+    "Writer": "Smith, Kevin",
+    "Publisher": "DC",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Arrow Vol 3: Against the Wall",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Arrow: The Archerâs Quest",
+    "Writer": "Meltzer, Brad",
+    "Publisher": "DC",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Arrow: The Longbow Hunters",
+    "Writer": "Grell, Mike",
+    "Publisher": "DC",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Lantern",
+    "Writer": "Marz, Ron",
+    "Publisher": "DC",
+    "Run": 108.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Lantern",
+    "Writer": "Johns, Geoff",
+    "Publisher": "DC",
+    "Run": 140.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Lantern (2023)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Lantern Corps",
+    "Writer": "Tomasi, Peter J.",
+    "Publisher": "DC",
+    "Run": 43.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Lantern: Earth One",
+    "Writer": "Hardman, Gabriel",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Lantern: Will World",
+    "Writer": "DeMatteis, J.M.",
+    "Publisher": "DC",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Lanterns",
+    "Writer": "Humphries, Sam",
+    "Publisher": "DC",
+    "Run": 33.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Green Valley",
+    "Writer": "Landis, Max",
+    "Publisher": "Image",
+    "Run": 9.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Grendel",
+    "Writer": "Wagner, Matt",
+    "Publisher": "Dark Horse",
+    "Run": 90.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Grendel: Devils Crucible",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Grimjack",
+    "Writer": "Ostrander, John",
+    "Publisher": "IDW",
+    "Run": 90.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Grindhouse",
+    "Writer": "De Campi, Alex",
+    "Publisher": "Dark Horse",
+    "Run": 16.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Groo",
+    "Writer": "Evanier, Mark",
+    "Publisher": "Dark Horse",
+    "Run": 150.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Groot",
+    "Writer": "Loveness, Jeff",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "GTO: Great Teacher Onizuka",
+    "Writer": "Fujisawa, Tohru",
+    "Publisher": "Manga",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Guardians 3000",
+    "Writer": "Abnett, Dan",
+    "Publisher": "Marvel",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Guardians of the Galaxy",
+    "Writer": "Cates, Donny",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Gulf, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Gutsville",
+    "Writer": "Spurrier, Simon",
+    "Publisher": "Image",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Gutter Magic",
+    "Writer": "Douek, Rich",
+    "Publisher": "IDW",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Habibi",
+    "Writer": "Thompson, Craig",
+    "Publisher": "Pantheon",
+    "Run": 27.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Habitat",
+    "Writer": "Roy, Simon",
+    "Publisher": "Image",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hack/Slash vs. Vampirella",
+    "Writer": "Aldridge, Shawn",
+    "Publisher": "Dynamite",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hadrian's Wall",
+    "Writer": "Higgins, Kyle",
+    "Publisher": "Image",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hank Johnson: Agent of Hydra",
+    "Writer": "Mandel, David",
+    "Publisher": "Marvel",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hard Time",
+    "Writer": "Gerber, Steve",
+    "Publisher": "DC",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Harley Quinn Vol 3: Clown About Town",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Harley Quinn: Villain of the Year",
+    "Writer": "Russell, Mark",
+    "Publisher": "DC",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Havok & Wolverine: Meltdown",
+    "Writer": "Simonson, Walt",
+    "Publisher": "Marvel",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hawkeye",
+    "Writer": "Fraction, Matt",
+    "Publisher": "Marvel",
+    "Run": 22.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hawkeye",
+    "Writer": "Thompson, Kelly",
+    "Publisher": "Marvel",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hawkeye vs Deapool",
+    "Writer": "Duggan, Gerry",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hawkeye: Blindspot",
+    "Writer": "McCann, Jim",
+    "Publisher": "Marvel",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Heckler",
+    "Writer": "Giffen, Keith",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hellblazer",
+    "Writer": "Various",
+    "Publisher": "Vertigo",
+    "Run": 300.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hellboy Saga",
+    "Writer": "Mignola, Mike",
+    "Publisher": "Dark Horse",
+    "Run": 200.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hellstorm: Prince of Lies",
+    "Writer": "Nieves, Rafael",
+    "Publisher": "Marvel",
+    "Run": 21.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Henchgirl",
+    "Writer": "Gudsnuk, Kristen",
+    "Publisher": "Dark Horse",
+    "Run": 23.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Heroes in Crisis",
+    "Writer": "King, Tom",
+    "Publisher": "DC",
+    "Run": 9.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hexagon Bridge",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Highest House, The",
+    "Writer": "Carey, Mike",
+    "Publisher": "IDW",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hitman",
+    "Writer": "Ennis, Garth",
+    "Publisher": "DC",
+    "Run": 63.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hobtown Mystery Stories: The Case of the Missing Men",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Homunculus",
+    "Writer": "Sparrow, Joe",
+    "Publisher": "ShortBox",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Horizon Expirement, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "House of Mystery",
+    "Writer": "Sturges, Matthew",
+    "Publisher": "Vertigo",
+    "Run": 44.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "House of Penance",
+    "Writer": "Tomasi, Peter J.",
+    "Publisher": "Dark Horse",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "House of X & Powers of X",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "How It All Ends",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "How To Baby",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Human Target",
+    "Writer": "Milligan, Peter",
+    "Publisher": "Vertigo",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Human Target (Greg Smallwood)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hunter x Hunter",
+    "Writer": "Togashi, Yoshihiro",
+    "Publisher": "Manga",
+    "Run": 36.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hyde Street",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Hypernaturals, The",
+    "Writer": "Abnett, Dan",
+    "Publisher": "Boom!",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "I Feel Machine",
+    "Writer": "Various",
+    "Publisher": "SelfMadeHero",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "I Heart Skull-Crusher",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "I Kill Giants",
+    "Writer": "Kelly, Joe",
+    "Publisher": "Image",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "I, Vampire",
+    "Writer": "Fialkov, Joshua Hale",
+    "Publisher": "DC",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Immortal Hulk",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Immortal Iron Fist",
+    "Writer": "Fraction, Matt",
+    "Publisher": "Marvel",
+    "Run": 28.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Impulse",
+    "Writer": "Waid, Mark",
+    "Publisher": "DC",
+    "Run": 30.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "In Clothes Called Fat",
+    "Writer": "Anno, Moyoco",
+    "Publisher": "Manga",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "In Perpetuity",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "In Utero",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Incal, The",
+    "Writer": "Jordorowsky, Alejandro",
+    "Publisher": "Epic",
+    "Run": 31.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Incognito",
+    "Writer": "Brubaker, Ed",
+    "Publisher": "Icon",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Incredible Hulk #331- #467",
+    "Writer": "David, Peter",
+    "Publisher": "Marvel",
+    "Run": 137.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Infamous Iron Man",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Infidel",
+    "Writer": "Pichetshote, Pornsak",
+    "Publisher": "Image",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Infinite Kung Fu",
+    "Writer": "McLeod, Kagan",
+    "Publisher": "Topshelf",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Infinite Vacation",
+    "Writer": "Spencer, Nick",
+    "Publisher": "Image",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Infinity Watch Annual Power Corrupts, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Inhumans",
+    "Writer": "Jenkins, Paul",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Injection",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Image",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Invaders",
+    "Writer": "Zdarsky, Chip",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Invincible",
+    "Writer": "Kirkman, Robert",
+    "Publisher": "Image",
+    "Run": 152.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Invincible Iron Man",
+    "Writer": "Fraction, Matt",
+    "Publisher": "Marvel",
+    "Run": 65.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Invisibles, The",
+    "Writer": "Morrison, Grant",
+    "Publisher": "Vertigo",
+    "Run": 34.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ion",
+    "Writer": "Marz, Ron",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Iron Fist",
+    "Writer": "Brisson, Ed",
+    "Publisher": "Marvel",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Iron Man: Extremis Director's Cut",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Iron Man: Noir",
+    "Writer": "Snyder, Scott",
+    "Publisher": "Marvel",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ironheart",
+    "Writer": "Ewing, Eve",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Irredeemable",
+    "Writer": "Waid, Mark",
+    "Publisher": "Boom!",
+    "Run": 38.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Irredeemable Ant-Man, The",
+    "Writer": "Kirkman, Robert",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "JellyFish, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Jem and the Holograms",
+    "Writer": "Thompson, Kelly",
+    "Publisher": "IDW",
+    "Run": 40.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Jessica Jones",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Marvel",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Jessica Jones: Blindspot #1-#4",
+    "Writer": "Thompson, Kelly",
+    "Publisher": "Marvel",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Jim Henson's Tale of Sand",
+    "Writer": "Henson, Jim",
+    "Publisher": "Boom!",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Jimmy Corrigan: The Smartest Kid on Earth",
+    "Writer": "Ware, Chris",
+    "Publisher": "Pantheon",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "JLA",
+    "Writer": "Morrison, Grant",
+    "Publisher": "DC",
+    "Run": 37.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "JLA",
+    "Writer": "Waid, Mark",
+    "Publisher": "DC",
+    "Run": 40.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "JLA: One Million",
+    "Writer": "Morrison, Grant",
+    "Publisher": "DC",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Jojo's Bizarre Adventure",
+    "Writer": "Araki, Hirohiko",
+    "Publisher": "Manga",
+    "Run": 124.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Jonah Hex",
+    "Writer": "Gray, Justin",
+    "Publisher": "DC",
+    "Run": 76.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Jonah Hex: Shadows West",
+    "Writer": "Lansdale, Joe",
+    "Publisher": "DC",
+    "Run": 16.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "JSA",
+    "Writer": "Johns, Geoff",
+    "Publisher": "DC",
+    "Run": 118.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "JSA: The Golden Age",
+    "Writer": "Robinson, James",
+    "Publisher": "DC",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Judas",
+    "Writer": "Loveness, Jeff",
+    "Publisher": "Boom!",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Judge Dredd",
+    "Writer": "Various",
+    "Publisher": "Rebellion Developments",
+    "Run": 200.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Judge Dredd: A Better World",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Junji Ito Collection",
+    "Writer": "Ito, Junji",
+    "Publisher": "Manga",
+    "Run": 35.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Justice",
+    "Writer": "Ross, Alex",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Justice League",
+    "Writer": "Johns, Geoff",
+    "Publisher": "DC",
+    "Run": 65.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Justice League 3000",
+    "Writer": "Giffen, Keith",
+    "Publisher": "DC",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Justice League International",
+    "Writer": "Giffen, Keith",
+    "Publisher": "DC",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Justice League United",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "DC",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Kabuki",
+    "Writer": "Mack, David",
+    "Publisher": "Icon",
+    "Run": 42.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Karnak",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Kaya Vol 4",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Kill or be Killed",
+    "Writer": "Brubaker, Ed",
+    "Publisher": "Image",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Kill the Minotaur",
+    "Writer": "Pasetto, Chris",
+    "Publisher": "Image",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Kill Your Boyfriend",
+    "Writer": "Morrison, Grant",
+    "Publisher": "Vertigo",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Killmonger",
+    "Writer": "Hill, Bryan",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "King City",
+    "Writer": "Graham, Brandon",
+    "Publisher": "Image",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "King Spawn Vol 6",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Kingdom",
+    "Writer": "Hara, Yasuhisa",
+    "Publisher": "Manga",
+    "Run": 54.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Kingdom Come",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Kings in Disguise",
+    "Writer": "Vance, James",
+    "Publisher": "W. W. Norton & Company",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Kings Warrior, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Klaus",
+    "Writer": "Morrison, Grant",
+    "Publisher": "Boom!",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Kosher Mafia",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Krampus",
+    "Writer": "Jones, Brian",
+    "Publisher": "Image",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Krazy & Ignatz",
+    "Writer": "Herriman, George",
+    "Publisher": "Sunday Press",
+    "Run": 70.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lady Killer",
+    "Writer": "Jones, Joelle",
+    "Publisher": "Dark Horse",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lady Mechanika Vol 8: The Devil in the Lake",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lady Supreme",
+    "Writer": "Moore, Terry",
+    "Publisher": "Image",
+    "Run": 2.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Last Siege, The",
+    "Writer": "Walker, Landry Q.",
+    "Publisher": "Image",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lazarus",
+    "Writer": "Rucka, Greg",
+    "Publisher": "Image",
+    "Run": 39.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "League of Extraordinary Gentlemen Vol 1 and 2",
+    "Writer": "Moore, Alan",
+    "Publisher": "Topshelf",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Leave it to Chance",
+    "Writer": "Robinson, James",
+    "Publisher": "Image",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Leaving Megalopolis",
+    "Writer": "Simone, Gail",
+    "Publisher": "Dark Horse",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Legion of Super-Heroes: The Great Darkness Saga",
+    "Writer": "Levitz, Paul",
+    "Publisher": "DC",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Legion, The",
+    "Writer": "Abnett, Dan",
+    "Publisher": "DC",
+    "Run": 38.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Letter 44",
+    "Writer": "Soule, Charles",
+    "Publisher": "Oni Press",
+    "Run": 35.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lex Luthor: Man of Steel",
+    "Writer": "Azzarello, Brian",
+    "Publisher": "DC",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Life and Times of Scrooge McDuck, The",
+    "Writer": "Rosa, Don",
+    "Publisher": "Fantagraphics",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Light Brigade, The",
+    "Writer": "Tomasi, Peter J.",
+    "Publisher": "Dark Horse",
+    "Run": 9.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Little Bird",
+    "Writer": "Poelgeest, Darcy Van",
+    "Publisher": "Image",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Little Nemo",
+    "Writer": "Braunn, Alexander",
+    "Publisher": "TASCHEN",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Loki: Journey Into Mystery",
+    "Writer": "Gillen, Kieron",
+    "Publisher": "Marvel",
+    "Run": 33.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lone Ranger, The",
+    "Writer": "Russell, Mark",
+    "Publisher": "Dynamite",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lone Wolf and Cub",
+    "Writer": "Koike, Kazuo",
+    "Publisher": "Dark Horse",
+    "Run": 28.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lost at Sea",
+    "Writer": "O'Malley, Brian Lee",
+    "Publisher": "Oni Press",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lost Girls",
+    "Writer": "Moore, Alan",
+    "Publisher": "Topshelf",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Love and Rockets",
+    "Writer": "Hernandez, Gilbert",
+    "Publisher": "Fantagraphics",
+    "Run": 84.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lucifer",
+    "Writer": "Carey, Mike",
+    "Publisher": "Vertigo",
+    "Run": 78.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lucifer and the Biscuit Hammer",
+    "Writer": "Mizukami, Satoshi",
+    "Publisher": "Manga",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lumberjanes",
+    "Writer": "Stevenson, Noelle",
+    "Publisher": "Boom!",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lunar Legend Tsukihime",
+    "Writer": "Shonen, Sasaki",
+    "Publisher": "Manga",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Lunar New Year Love Story",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Luther Strode Trilogy",
+    "Writer": "Jordan, Justin",
+    "Publisher": "Image",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Made in Abyss",
+    "Writer": "Tsukushi, Akihito",
+    "Publisher": "Manga",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Maestros",
+    "Writer": "Skroce, Steve",
+    "Publisher": "Image",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mage: The Hero",
+    "Writer": "Wagner, Matt",
+    "Publisher": "Image",
+    "Run": 47.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Manhattan Projects, The",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Image",
+    "Run": 29.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Manhunter",
+    "Writer": "Andreyko, Marc",
+    "Publisher": "DC",
+    "Run": 38.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Manifest Destiny",
+    "Writer": "Dingess, Chris",
+    "Publisher": "Image",
+    "Run": 36.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mara",
+    "Writer": "Wood, Brian",
+    "Publisher": "Image",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "March",
+    "Writer": "Aydin, Andrew",
+    "Publisher": "Top Shelf",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mars Attacks",
+    "Writer": "Starks, Kyle",
+    "Publisher": "Dynamite",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Martian Manhunter",
+    "Writer": "Williams, Rob",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Marvel 1602",
+    "Writer": "Gaiman, Neil",
+    "Publisher": "Marvel",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Marvel 2-In-One",
+    "Writer": "Zdarsky, Chip",
+    "Publisher": "Marvel",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Marvel Comics #1000",
+    "Writer": "Various",
+    "Publisher": "Marvel",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Marvel Comics #1001",
+    "Writer": "Various",
+    "Publisher": "Marvel",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Marvel Cosmic",
+    "Writer": "Various",
+    "Publisher": "Marvel",
+    "Run": 285.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Marvel Knights",
+    "Writer": "Cates, Donny",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Marvels",
+    "Writer": "Busiek, Kurt",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mary Tyler Moorehawk",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Masks",
+    "Writer": "Roberson, Chris",
+    "Publisher": "Dynamite",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Master Race",
+    "Writer": "Krigstein, Bernie",
+    "Publisher": "EC Comics",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Maus",
+    "Writer": "Spiegelman, Art",
+    "Publisher": "Pantheon",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Maxx, The",
+    "Writer": "Kieth, Sam",
+    "Publisher": "IDW",
+    "Run": 45.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Meet the Skrulls",
+    "Writer": "Thompson, Robbie",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Megaman",
+    "Writer": "Flynn, Ian",
+    "Publisher": "Archie",
+    "Run": 71.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Metabrons, The",
+    "Writer": "Jordorowsky, Alejandro",
+    "Publisher": "Humanoids",
+    "Run": 22.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Midnight Nation",
+    "Writer": "Straczynski, J. Michael",
+    "Publisher": "Top Cow",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Midnighter",
+    "Writer": "Orlando, Steve",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Midnighter and Apollo",
+    "Writer": "Orlando, Steve",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mighty Avengers",
+    "Writer": "Slott, Dan",
+    "Publisher": "Marvel",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mighty Morphin' Power Rangers: Pink",
+    "Writer": "Thompson, Kelly",
+    "Publisher": "Boom!",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Milk Wars",
+    "Writer": "Various",
+    "Publisher": "DC",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mind MGMT",
+    "Writer": "Kindt, Matt",
+    "Publisher": "Dark Horse",
+    "Run": 37.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mind the Gap",
+    "Writer": "McCann, Jim",
+    "Publisher": "Image",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Minor Arcana Vol 1: The Fool",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Miracleman",
+    "Writer": "Moore, Alan",
+    "Publisher": "Marvel",
+    "Run": 41.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mister Miracle",
+    "Writer": "King, Tom",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mob Psycho 100",
+    "Writer": "ONE",
+    "Publisher": "Manga",
+    "Run": 16.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mockingbird",
+    "Writer": "Cain, Chelsea",
+    "Publisher": "Marvel",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Monster",
+    "Writer": "Urasawa, Naoki",
+    "Publisher": "Manga",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Monsters",
+    "Writer": "Dahl, Ken",
+    "Publisher": "Fantagraphics",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Moon Is Following Us, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Moon Knight",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Marvel",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Moon Knight",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "Marvel",
+    "Run": 27.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Moon Knight",
+    "Writer": "Huston, Charlie",
+    "Publisher": "Marvel",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Moon Knight",
+    "Writer": "Moench, Doug",
+    "Publisher": "Marvel",
+    "Run": 39.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Moonshadow",
+    "Writer": "DeMatteis, J.M.",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mother Panic",
+    "Writer": "Houser, Jody",
+    "Publisher": "DC",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Motor Girl",
+    "Writer": "Moore, Terry",
+    "Publisher": "Abstract Studio",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mouse Guard",
+    "Writer": "Peterson, David",
+    "Publisher": "Boom!",
+    "Run": 34.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ms. Marvel",
+    "Writer": "Wilson, G. Willow",
+    "Publisher": "Marvel",
+    "Run": 58.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ms. Marvel",
+    "Writer": "Reed, Brian",
+    "Publisher": "Marvel",
+    "Run": 54.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Multiple Warheads",
+    "Writer": "Graham, Brandon",
+    "Publisher": "Image",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Multiverses: Collision Detected Collected",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Murder Falcon",
+    "Writer": "Johnson, Daniel",
+    "Publisher": "Image",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Murder Me Dead",
+    "Writer": "Lapham, David",
+    "Publisher": "Image",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Murder Mysteries",
+    "Writer": "Gaiman, Neil",
+    "Publisher": "Dark Horse",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "My Adventures with Superman ",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "My Favorite Thing is Monsters",
+    "Writer": "Ferris, Emil",
+    "Publisher": "Fantagraphics",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "My Favorite Thing is Monsters Book 2",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "My Friend Dahmer",
+    "Writer": "Backderf, Derf",
+    "Publisher": "Abrams ComicArts",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "My Hero Academia",
+    "Writer": "Horikoshi, Kohei",
+    "Publisher": "Manga",
+    "Run": 22.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "My Heroes Have Always Been Junkies",
+    "Writer": "Brubaker, Ed",
+    "Publisher": "Image",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mystique",
+    "Writer": "Vaughan, Brian K.",
+    "Publisher": "Marvel",
+    "Run": 24.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Mythic",
+    "Writer": "Hester, Philip",
+    "Publisher": "Image",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nailbiter",
+    "Writer": "Williamson, Joshua",
+    "Publisher": "Image",
+    "Run": 31.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nameless City, The",
+    "Writer": "Hicks, Faith Erin",
+    "Publisher": "First Second",
+    "Run": 30.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nancy Drew",
+    "Writer": "Thompson, Kelly",
+    "Publisher": "Dynamite",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nao of Brown, The",
+    "Writer": "Dillon, Glyn",
+    "Publisher": "Harry N. Abrams",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "NausicaÃ¤ of the Valley of the Wind",
+    "Writer": "Miyazaki, Hayao",
+    "Publisher": "Manga",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nemo Trilogy",
+    "Writer": "Moore, Alan",
+    "Publisher": "Topshelf",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "New Avengers",
+    "Writer": "Ewing, Al",
+    "Publisher": "Marvel",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "New Avengers + Illuminati",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Marvel",
+    "Run": 108.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "New Gods (2025), The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "New Super-Man",
+    "Writer": "Yang, Gene Luen",
+    "Publisher": "DC",
+    "Run": 24.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "New Teen Titans",
+    "Writer": "Wolfman, Marv",
+    "Publisher": "DC",
+    "Run": 182.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "New Warriors",
+    "Writer": "Yost, Christopher",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "New X-Men",
+    "Writer": "Kyle, Craig",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "New X-Men",
+    "Writer": "Morrison, Grant",
+    "Publisher": "Marvel",
+    "Run": 42.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nextwave: Agents of H.A.T.E.",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nexus",
+    "Writer": "Baron, Mike",
+    "Publisher": "Dark Horse",
+    "Run": 136.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nick Fury",
+    "Writer": "Steranko, Jim",
+    "Publisher": "Marvel",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nick Fury",
+    "Writer": "Robinson, James",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nighthawk",
+    "Writer": "Walker, David F.",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nightly News, The",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Image",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nights",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nightwing",
+    "Writer": "Dixon, Chuck",
+    "Publisher": "DC",
+    "Run": 80.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nightwing Vol 7",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nightwing: A Knight in Bludhaven",
+    "Writer": "O'Neil, Denny",
+    "Publisher": "DC",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nightwing: Renegade",
+    "Writer": "Grayson, Devin",
+    "Publisher": "DC",
+    "Run": 52.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Niourk",
+    "Writer": "Wul, Stefan",
+    "Publisher": "Dark Horse",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "No Hero",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Avatar Press",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nonplayer",
+    "Writer": "Simpson, Nate",
+    "Publisher": "Image",
+    "Run": 2.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Northlanders",
+    "Writer": "Wood, Brian",
+    "Publisher": "Vertigo",
+    "Run": 50.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nova",
+    "Writer": "Loveness, Jeff",
+    "Publisher": "Marvel",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nowhere Men",
+    "Writer": "Stephenson, Eric",
+    "Publisher": "Image",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nyx (2024)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Nyx Vol 1: What Comes Next Will Be Marvelous",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Occupy Comics",
+    "Writer": "Various",
+    "Publisher": "Black Mask",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Old Guard, The",
+    "Writer": "Rucka, Greg",
+    "Publisher": "Image",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Omega Men",
+    "Writer": "King, Tom",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "One Dirty Tree",
+    "Writer": "Van Sciver, Noah",
+    "Publisher": "Uncivilized Books",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "One Piece",
+    "Writer": "Ota, Eiichiro",
+    "Publisher": "Manga",
+    "Run": 92.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "One Punch Man",
+    "Writer": "ONE",
+    "Publisher": "Manga",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "One World Under Doom",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "One! Hundred! Demons!",
+    "Writer": "Barry, Lynda",
+    "Publisher": "Drawn and Quarterly",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Onward Towards our Noble Deaths",
+    "Writer": "Mizuki, Shigeru",
+    "Publisher": "Manga",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Orc Stain",
+    "Writer": "Stokoe, James",
+    "Publisher": "Image",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Orion",
+    "Writer": "Simonson, Walt",
+    "Publisher": "DC",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Paper Girls",
+    "Writer": "Vaughan, Brian K.",
+    "Publisher": "Image",
+    "Run": 30.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Patience",
+    "Writer": "Clowes, Daniel",
+    "Publisher": "Fantagraphics",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Pax Romana",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Image",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Persepolis",
+    "Writer": "Satrapi, Marjane",
+    "Publisher": "Pantheon",
+    "Run": 14.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Peter Cannon: Thunderbolt",
+    "Writer": "Gillen, Kieron",
+    "Publisher": "Dynamite",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Peter Parker: The Spectacular Spider-Man",
+    "Writer": "Zdarsky, Chip",
+    "Publisher": "Marvel",
+    "Run": 23.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Phoenix Vol 1: Orbital Resonance",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Phonogram",
+    "Writer": "Gillen, Kieron",
+    "Publisher": "Image",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Planet Hulk",
+    "Writer": "Pak, Greg",
+    "Publisher": "Marvel",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Planetary",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Wildstorm",
+    "Run": 35.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Planetoid",
+    "Writer": "Garing, Ken",
+    "Publisher": "Image",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Plastic Man",
+    "Writer": "Baker, Kyle",
+    "Publisher": "DC",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Plastic Man",
+    "Writer": "Simone, Gail",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Plastic: Deaath & Dolls Collected",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Pluto",
+    "Writer": "Urasawa, Naoki",
+    "Publisher": "Manga",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Plutona",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "Image",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Pogo",
+    "Writer": "Kelly, Walt",
+    "Publisher": "Fantagraphics",
+    "Run": 66.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Polar Vortex",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Power Fantasy, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Power Girl",
+    "Writer": "Palmiotti, Jimmy",
+    "Publisher": "DC",
+    "Run": 27.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Power Rangers: Prime (2024)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Powers",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Icon",
+    "Run": 97.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Preacher",
+    "Writer": "Ennis, Garth",
+    "Publisher": "Vertigo",
+    "Run": 75.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Pride of Baghdad",
+    "Writer": "Vaughan, Brian K.",
+    "Publisher": "Vertigo",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Prince and the Dressmaker, The",
+    "Writer": "Wang, Jen",
+    "Publisher": "First Second",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Promethea",
+    "Writer": "Moore, Alan",
+    "Publisher": "DC",
+    "Run": 32.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Promised Neverland, The",
+    "Writer": "Shirai, Kaiu",
+    "Publisher": "Manga",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Prophet",
+    "Writer": "Graham, Brandon",
+    "Publisher": "Image",
+    "Run": 53.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Providence",
+    "Writer": "Moore, Alan",
+    "Publisher": "Avatar Press",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Prowler (2017)",
+    "Writer": "Ryan, Sean",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Psycho, The",
+    "Writer": "Hudnall, James",
+    "Publisher": "DC",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Puerto Rico Strong",
+    "Writer": "Various",
+    "Publisher": "Lion Forge",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Punisher",
+    "Writer": "Ennis, Garth",
+    "Publisher": "Marvel",
+    "Run": 130.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Punisher",
+    "Writer": "Remender, Rick",
+    "Publisher": "Marvel",
+    "Run": 22.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Punisher Platoon",
+    "Writer": "Ennis, Garth",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Punisher: Frank Castle MAX, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Punk Rock Jesus",
+    "Writer": "Murphey, Sean",
+    "Publisher": "Vertigo",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Punk Rock Karaoke",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Putty Pygmailion",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Queen and Country",
+    "Writer": "Rucka, Greg",
+    "Publisher": "Oni Press",
+    "Run": 32.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Question",
+    "Writer": "O'Neil, Denny",
+    "Publisher": "DC",
+    "Run": 42.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Question, The",
+    "Writer": "Rucka, Greg",
+    "Publisher": "DC",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Rachel Rising",
+    "Writer": "Moore, Terry",
+    "Publisher": "Abstract Studio",
+    "Run": 42.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ragnarok",
+    "Writer": "Simonson, Walt",
+    "Publisher": "IDW",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Rare Flavors",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ravine",
+    "Writer": "Marz, Ron",
+    "Publisher": "Image",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Record of Ragnarok",
+    "Writer": "Umemura, Shinya",
+    "Publisher": "Manga",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Red Lanterns",
+    "Writer": "Soule, Charles",
+    "Publisher": "DC",
+    "Run": 42.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Red Sonja",
+    "Writer": "Chu, Amy",
+    "Publisher": "Dynamite",
+    "Run": 27.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Red Sonja",
+    "Writer": "Simone, Gail",
+    "Publisher": "Dynamite",
+    "Run": 26.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Red Sonja/Tarzan",
+    "Writer": "Simone, Gail",
+    "Publisher": "Dynamite",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Redcoat Vol 1",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Redman: The Kaiju Hunter",
+    "Writer": "Frank, Matt",
+    "Publisher": "Night Shining",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Requiem Vampire Knights",
+    "Writer": "Mills, Pat",
+    "Publisher": "Rebellion Developments",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ribbon Queen, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Rising Stars",
+    "Writer": "Straczynski, J. Michael",
+    "Publisher": "Image",
+    "Run": 26.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Robin",
+    "Writer": "Dixon, Chuck",
+    "Publisher": "DC",
+    "Run": 130.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Robocop vs Terminator",
+    "Writer": "Miller, Frank",
+    "Publisher": "Dark Horse",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Rock Candy Mountain",
+    "Writer": "Starks, Kyle",
+    "Publisher": "Image",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Rocket Girl",
+    "Writer": "Montclaire, Brandon",
+    "Publisher": "Image",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Rocket Raccoon: Grounded",
+    "Writer": "Rosenberg, Matthew",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "ROM: Spaceknight",
+    "Writer": "Mantlo, Bill",
+    "Publisher": "Marvel",
+    "Run": 79.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Rose",
+    "Writer": "Finch, Meredith",
+    "Publisher": "Image",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Royal City",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "Image",
+    "Run": 14.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Royals",
+    "Writer": "Ewing, Al",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Runaways",
+    "Writer": "Vaughan, Brian K.",
+    "Publisher": "Marvel",
+    "Run": 51.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "S.H.E.I.L.D.",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "S.W.O.R.D.",
+    "Writer": "Gillen, Kieron",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sabrina",
+    "Writer": "Drnaso, Nick",
+    "Publisher": "Drawn and Quarterly",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Safe Area Gorazde",
+    "Writer": "Sacco, Joe",
+    "Publisher": "Fantagraphics",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Saga",
+    "Writer": "Vaughan, Brian K.",
+    "Publisher": "Image",
+    "Run": 54.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Samurai Deeper Kyo",
+    "Writer": "Kamijyo, Akimine",
+    "Publisher": "Manga",
+    "Run": 38.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sandman #1 - #49, The",
+    "Writer": "Gaiman, Neil",
+    "Publisher": "Vertigo",
+    "Run": 49.0,
+    "Read": true,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sandman #50 - #75, The",
+    "Writer": "Gaiman, Neil",
+    "Publisher": "Vertigo",
+    "Run": 26.0,
+    "Read": true,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sandman Presents: Thessaly - Witch for Hire, The",
+    "Writer": "Willingham, Bill",
+    "Publisher": "Vertigo",
+    "Run": 5.0,
+    "Read": true,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sandman: Midnight Theatre + Mystery Theatre",
+    "Writer": "Wagner, Matt",
+    "Publisher": "Vertigo",
+    "Run": 74.0,
+    "Read": true,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sandman: Overture, The",
+    "Writer": "Gaiman, Neil",
+    "Publisher": "Vertigo",
+    "Run": 6.0,
+    "Read": true,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sara",
+    "Writer": "Ennis, Garth",
+    "Publisher": "TKO Studios",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Satellite Sam",
+    "Writer": "Fraction, Matt",
+    "Publisher": "Image",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Scalped",
+    "Writer": "Aaron, Jason",
+    "Publisher": "Vertigo",
+    "Run": 60.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Scalped Vol 2",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Scarlet",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Icon",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Scarlet Spider",
+    "Writer": "Yost, Christopher",
+    "Publisher": "Marvel",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Scooby Apocalypse",
+    "Writer": "DeMatteis, J.M.",
+    "Publisher": "DC",
+    "Run": 36.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Scott Pilgrim",
+    "Writer": "O'Malley, Brian Lee",
+    "Publisher": "Oni Press",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "SCUD: The Disposable Assassin",
+    "Writer": "Schrab, Rob",
+    "Publisher": "Image",
+    "Run": 55.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sculptor, The",
+    "Writer": "McCloud, Scott",
+    "Publisher": "First Second",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Secret Avengers",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Secret Avengers",
+    "Writer": "Kot, Ales",
+    "Publisher": "Marvel",
+    "Run": 16.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Secret Avengers",
+    "Writer": "Remender, Rick",
+    "Publisher": "Marvel",
+    "Run": 37.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Secret Six",
+    "Writer": "Simone, Gail",
+    "Publisher": "DC",
+    "Run": 50.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Secret War",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Secret Warriors",
+    "Writer": "Rosenberg, Matthew",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Secret Warriors",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Marvel",
+    "Run": 29.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Secret Wars",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Marvel",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Seeds, The",
+    "Writer": "Nocenti, Ann",
+    "Publisher": "Dark Horse",
+    "Run": 2.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Self Esteem and the End of the World",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sentry",
+    "Writer": "Jenkins, Paul",
+    "Publisher": "Marvel",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sentry",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Seven to Eternity",
+    "Writer": "Remender, Rick",
+    "Publisher": "Image",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Severed",
+    "Writer": "Snyder, Scott",
+    "Publisher": "Image",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sex",
+    "Writer": "Casey, Joe",
+    "Publisher": "Image",
+    "Run": 34.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sex Criminals",
+    "Writer": "Fraction, Matt",
+    "Publisher": "Image",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Shade the Changing Girl",
+    "Writer": "Castellucci, Cecil",
+    "Publisher": "DC",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Shade the Changing Man",
+    "Writer": "Milligan, Peter",
+    "Publisher": "Vertigo",
+    "Run": 70.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Shadow Hero, The",
+    "Writer": "Yang, Gene Luen",
+    "Publisher": "First Second",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Shadow Star",
+    "Writer": "Kitoh, Mohiro",
+    "Publisher": "Manga",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Shadow, The",
+    "Writer": "Spurrier, Simon",
+    "Publisher": "Dynamite",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Shazam!: The Monster Society of Evil",
+    "Writer": "Smith, Jeff",
+    "Publisher": "DC",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "She-Hulk",
+    "Writer": "Slott, Dan",
+    "Publisher": "Marvel",
+    "Run": 33.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sheriff of Babylon",
+    "Writer": "King, Tom",
+    "Publisher": "Vertigo",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Shipwreck",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Aftershock",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Shirtless Bear Fighter",
+    "Writer": "LeHeup, Jody",
+    "Publisher": "Image",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Shutter",
+    "Writer": "Keatinge, Joe",
+    "Publisher": "Image",
+    "Run": 30.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sideways",
+    "Writer": "DiDio, Dan",
+    "Publisher": "DC",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Silk",
+    "Writer": "Thompson, Robbie",
+    "Publisher": "Marvel",
+    "Run": 34.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Silver Surfer",
+    "Writer": "Slott, Dan",
+    "Publisher": "Marvel",
+    "Run": 29.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Silver Surfer: Black",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Silver Surfer: Parable",
+    "Writer": "Moebius",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sinestro",
+    "Writer": "Bunn, Cullen",
+    "Publisher": "DC",
+    "Run": 23.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Single Mothering",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Singularity",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Skullkickers",
+    "Writer": "Zub, Jim",
+    "Publisher": "Image",
+    "Run": 40.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Slaine: The Horned God",
+    "Writer": "Mills, Pat",
+    "Publisher": "Rebellion Developments",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Slam Dunk",
+    "Writer": "Inoue, Takehiko",
+    "Publisher": "Manga",
+    "Run": 31.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sleeper",
+    "Writer": "Brubaker, Ed",
+    "Publisher": "Wildstorm",
+    "Run": 24.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Smell of Starving Boys, The",
+    "Writer": "Phang, Loo Hui",
+    "Publisher": "SelfMadeHero",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Snapshot",
+    "Writer": "Diggle, Andy",
+    "Publisher": "Image",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Solanin",
+    "Writer": "Asano, Ino",
+    "Publisher": "Manga",
+    "Run": 2.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Solo",
+    "Writer": "Various",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Space Ghost",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Speak: The Graphic Novel",
+    "Writer": "Anderson, Laurie",
+    "Publisher": "Farrar, Straus, Giroux",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spectacular Spidermen Vol 2, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spectre, The",
+    "Writer": "Ostrander, John",
+    "Publisher": "DC",
+    "Run": 64.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spider King, The",
+    "Writer": "Vann, Josh",
+    "Publisher": "IDW",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spider-Man",
+    "Writer": "David, Peter",
+    "Publisher": "Marvel",
+    "Run": 100.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spider-Man",
+    "Writer": "Straczynski, J. Michael",
+    "Publisher": "Marvel",
+    "Run": 79.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spider-Man: Blue",
+    "Writer": "Loeb, Jeph",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spider-Man: Hooky",
+    "Writer": "Putney, Susan K.",
+    "Publisher": "Marvel",
+    "Run": 2.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spider-Man: Life Story",
+    "Writer": "Zdarsky, Chip",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spider-Man/Deadpool",
+    "Writer": "Thompson, Robbie",
+    "Publisher": "Marvel",
+    "Run": 50.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spider-Man/Doctor Octopus: Negative Exposure",
+    "Writer": "Vaughan, Brian K.",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spider-Woman",
+    "Writer": "Hopeless, Dennis",
+    "Publisher": "Marvel",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spider-Woman Agent of S.W.O.R.D.",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Marvel",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spirit Circle",
+    "Writer": "Mizukami, Satoshi",
+    "Publisher": "Manga",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Spirit, The",
+    "Writer": "Eisner, Will",
+    "Publisher": "Dynamite",
+    "Run": 32.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Squadron Supreme",
+    "Writer": "Straczynski, J. Michael",
+    "Publisher": "Marvel",
+    "Run": 30.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Star Wars (2015)",
+    "Writer": "Gillen, Kieron",
+    "Publisher": "Marvel",
+    "Run": 29.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Star Wars Legends: Legacy",
+    "Writer": "Ostrander, John",
+    "Publisher": "Marvel",
+    "Run": 58.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Star Wars: Darth Vader",
+    "Writer": "Gillen, Kieron",
+    "Publisher": "Marvel",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Star Wars: Doctor Aphra",
+    "Writer": "Gillen, Keiron",
+    "Publisher": "Marvel",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Star Wars: Doctor Aphra",
+    "Writer": "Spurrier, Simon",
+    "Publisher": "Marvel",
+    "Run": 21.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Star Wars: Han Solo",
+    "Writer": "Liu, Marjorie",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Star Wars: Inquisitors",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Star Wars: KotOR",
+    "Writer": "Miller, John Jackson",
+    "Publisher": "Marvel",
+    "Run": 55.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Starfinder: Angels of the Drift",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Starman",
+    "Writer": "Robinson, James",
+    "Publisher": "DC",
+    "Run": 92.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Starstruck",
+    "Writer": "Lee, Elaine",
+    "Publisher": "IDW",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Storm (2024)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Stranger Things Vol 4 Library Edition",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Strangers in Paradise",
+    "Writer": "Moore, Terry",
+    "Publisher": "Abstract Studio",
+    "Run": 103.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Stray Bullets",
+    "Writer": "Lapham, David",
+    "Publisher": "Image",
+    "Run": 89.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Stray Toasters",
+    "Writer": "Sienkiewicz, Bill",
+    "Publisher": "Epic",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Street Fighter Legends",
+    "Writer": "Zub, Jim",
+    "Publisher": "UDON",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Submariner: The Depths",
+    "Writer": "Milligan, Peter",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Suicide Risk",
+    "Writer": "Carey, Mike",
+    "Publisher": "Boom!",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Summit of the Gods, The",
+    "Writer": "Yumemakura, Baku",
+    "Publisher": "Manga",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sunny",
+    "Writer": "Matsumoto, Taiyo",
+    "Publisher": "Manga",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sunstone",
+    "Writer": "Sejic, Stjepan",
+    "Publisher": "Image",
+    "Run": 33.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Super Sons",
+    "Writer": "Tomasi, Peter J.",
+    "Publisher": "DC",
+    "Run": 16.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Supergirl",
+    "Writer": "Andreyko, Marc",
+    "Publisher": "DC",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Supergirl",
+    "Writer": "David, Peter",
+    "Publisher": "DC",
+    "Run": 84.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Supergirl",
+    "Writer": "Green, Michael",
+    "Publisher": "DC",
+    "Run": 40.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Supergods",
+    "Writer": "Morrison, Grant",
+    "Publisher": "Avatar Press",
+    "Run": 35.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superior Foes of Spider-Man",
+    "Writer": "Spencer, Nick",
+    "Publisher": "Marvel",
+    "Run": 17.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superior Spider-Man, The",
+    "Writer": "Gage, Christos",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superman",
+    "Writer": "Tomasi, Peter J.",
+    "Publisher": "DC",
+    "Run": 50.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superman (2023)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superman Adventures",
+    "Writer": "McCloud, Scott",
+    "Publisher": "DC",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superman: American Alien",
+    "Writer": "Landis, Max",
+    "Publisher": "DC",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superman: Birthright",
+    "Writer": "Waid, Mark",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superman: Brainiac",
+    "Writer": "Johns, Geoff",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superman: Red Son",
+    "Writer": "Millar, Mark",
+    "Publisher": "DC",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superman: Secret Identity",
+    "Writer": "Busiek, Kurt",
+    "Publisher": "DC",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superman: Speeding Bullets",
+    "Writer": "DeMatteis, J.M.",
+    "Publisher": "DC",
+    "Run": 2.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superman: Strength",
+    "Writer": "McCloud, Scott",
+    "Publisher": "DC",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superman: Whatever Happened to the Man of Tomorrow",
+    "Writer": "Moore, Alan",
+    "Publisher": "DC",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superman/Shazam!: First Thunder",
+    "Writer": "Winick, Judd",
+    "Publisher": "DC",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Superwoman",
+    "Writer": "Jimenez, Phil",
+    "Publisher": "DC",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Supreme",
+    "Writer": "Moore, Alan",
+    "Publisher": "Image",
+    "Run": 27.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Swamp Thing",
+    "Writer": "Moore, Alan",
+    "Publisher": "DC",
+    "Run": 44.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Swamp Thing",
+    "Writer": "Veitch, Rick",
+    "Publisher": "DC",
+    "Run": 27.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Swamp Thing",
+    "Writer": "Snyder, Scott",
+    "Publisher": "DC",
+    "Run": 24.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Swamp Thing",
+    "Writer": "Soule, Charles",
+    "Publisher": "DC",
+    "Run": 26.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Swan Songs",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sweet Tooth",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "Vertigo",
+    "Run": 40.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Sword, The",
+    "Writer": "Luna Brothers",
+    "Publisher": "Image",
+    "Run": 24.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Takio",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Icon",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Tank Girl",
+    "Writer": "Martin, Alan",
+    "Publisher": "Titan",
+    "Run": 27.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Teen Titans",
+    "Writer": "Johns, Geoff",
+    "Publisher": "DC",
+    "Run": 56.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Teenage Mutant Ninja Turtles (2024)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Tender",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Terrible Elisabeth Dumn Against the Devils in Suits, The",
+    "Writer": "Oliveira, Arabson",
+    "Publisher": "Image",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Terrifics, The",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "DC",
+    "Run": 14.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Terry Moore's Echo",
+    "Writer": "Moore, Terry",
+    "Publisher": "Abstract Studio",
+    "Run": 30.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Tetris: The Games People Play",
+    "Writer": "Brown, Box",
+    "Publisher": "First Second",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Thanos",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "Marvel",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Thief of Thieves",
+    "Writer": "Kirkman, Robert",
+    "Publisher": "Image",
+    "Run": 42.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Thor",
+    "Writer": "Simonson, Walt",
+    "Publisher": "Marvel",
+    "Run": 70.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Thor",
+    "Writer": "Straczynski, J. Michael",
+    "Publisher": "Marvel",
+    "Run": 16.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Thor Saga",
+    "Writer": "Aaron, Jason",
+    "Publisher": "Marvel",
+    "Run": 94.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Three",
+    "Writer": "Gillen, Kieron",
+    "Publisher": "Image",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Through the Woods",
+    "Writer": "Carroll, Emily",
+    "Publisher": "Margaret K. McElderry Books",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Thumb Print",
+    "Writer": "Hill, Joe",
+    "Publisher": "IDW",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Thunderbolts",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Marvel",
+    "Run": 22.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Thunderbolts",
+    "Writer": "Busiek, Kurt",
+    "Publisher": "Marvel",
+    "Run": 43.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Thunderbolts",
+    "Writer": "Gage, Christos",
+    "Publisher": "Marvel",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Toil and Trouble",
+    "Writer": "Scott, Mairghread",
+    "Publisher": "Boom!",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Tokyo Ghost",
+    "Writer": "Remender, Rick",
+    "Publisher": "Image",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Tokyo Ghoul",
+    "Writer": "Ishida, Sui",
+    "Publisher": "Manga",
+    "Run": 14.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Tokyo Tarareba Girls",
+    "Writer": "Higashimura, Akiko",
+    "Publisher": "Manga",
+    "Run": 9.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Tokyo These Days",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Tom Strong",
+    "Writer": "Moore, Alan",
+    "Publisher": "ABC",
+    "Run": 50.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Too Much Coffee Man",
+    "Writer": "Wheeler Shannon",
+    "Publisher": "Dark Horse",
+    "Run": 24.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Top 10",
+    "Writer": "Moore, Alan",
+    "Publisher": "ABC",
+    "Run": 20.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Tower of God",
+    "Writer": "Jong-hui, Lee",
+    "Publisher": "Webtoon",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transformers '84",
+    "Writer": "Various",
+    "Publisher": "Marvel",
+    "Run": 250.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transformers (2023)",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transformers: All Hail Megatron",
+    "Writer": "McCarthy, Shane",
+    "Publisher": "IDW",
+    "Run": 16.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transformers: Autocracy",
+    "Writer": "Metzen, Chris",
+    "Publisher": "IDW",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transformers: Death of Optimus Prime",
+    "Writer": "Roberts, James",
+    "Publisher": "IDW",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transformers: Last Stand of the Wreckers",
+    "Writer": "Roberts, James",
+    "Publisher": "IDW",
+    "Run": 85.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transformers: Megatron Origins",
+    "Writer": "Holmes, Eric",
+    "Publisher": "IDW",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transformers: Monstrosity",
+    "Writer": "Metzen, Chris",
+    "Publisher": "IDW",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transformers: MTMTE/LL",
+    "Writer": "Roberts, James",
+    "Publisher": "IDW",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transformers: Primacy",
+    "Writer": "Metzen, Chris",
+    "Publisher": "IDW",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transformers: Robots in Disguise",
+    "Writer": "Barber, John",
+    "Publisher": "IDW",
+    "Run": 61.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transformers: Windblade/'Till All Are One",
+    "Writer": "Scott, Mairghread",
+    "Publisher": "IDW",
+    "Run": 26.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transhuman",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Image",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Transmetropolitan",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Vertigo",
+    "Run": 62.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Trees",
+    "Writer": "Ellis, Warren",
+    "Publisher": "Image",
+    "Run": 14.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Trillium",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "Vertigo",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Trinity",
+    "Writer": "Manapul, Francis",
+    "Publisher": "DC",
+    "Run": 23.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Truth: Red White and Black",
+    "Writer": "Morales, Robert",
+    "Publisher": "Marvel",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "U.S.Avengers",
+    "Writer": "Ewing, Al",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ultimate Comics: Hawkeye",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Marvel",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ultimate Comics: Thor",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Marvel",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ultimate Comics: Ultimates",
+    "Writer": "Hickman, Jonathan",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ultimate Comics: X-Men",
+    "Writer": "Wood, Brian",
+    "Publisher": "Marvel",
+    "Run": 33.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ultimate Spider-Man",
+    "Writer": "Bendis, Brian",
+    "Publisher": "Marvel",
+    "Run": 200.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ultimate Spiderman Vol 1: Married With Children",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ultimate SPiderman Vol 2: The Paper",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ultimates",
+    "Writer": "Ewing, Al",
+    "Publisher": "Marvel",
+    "Run": 22.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Umbrella Academy",
+    "Writer": "Way, Gerard",
+    "Publisher": "Dark Horse",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Unbeatable Squirrel Girl, The",
+    "Writer": "North, Ryan",
+    "Publisher": "Marvel",
+    "Run": 64.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Unbelievable Gwenpool, The",
+    "Writer": "Hastings, Christopher",
+    "Publisher": "Marvel",
+    "Run": 27.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Uncanny Avengers",
+    "Writer": "Remender, Rick",
+    "Publisher": "Marvel",
+    "Run": 30.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Uncanny Avengers",
+    "Writer": "Zub, Jim",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Uncanny X-Force",
+    "Writer": "Remender, Rick",
+    "Publisher": "Marvel",
+    "Run": 35.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Uncanny X-Men",
+    "Writer": "Gillen, Kieron",
+    "Publisher": "Marvel",
+    "Run": 21.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Underwater Welder, The",
+    "Writer": "Lemire, Jeff",
+    "Publisher": "Topshelf",
+    "Run": 9.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Underwinter",
+    "Writer": "Fawkes, Ray",
+    "Publisher": "Image",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Unknown Soldier",
+    "Writer": "Ennis, Garth",
+    "Publisher": "DC",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Unwritten, The",
+    "Writer": "Carey, Mike",
+    "Publisher": "Vertigo",
+    "Run": 66.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Upgrade Soul",
+    "Writer": "Daniels, Ezra Clayton",
+    "Publisher": "Lion Forge",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Usagi Yojimbo",
+    "Writer": "Sakai, Stan",
+    "Publisher": "Dark Horse",
+    "Run": 172.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "V for Vendetta",
+    "Writer": "Moore, Alan",
+    "Publisher": "Vertigo",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Vagabond",
+    "Writer": "Inoue, Takehiko",
+    "Publisher": "Manga",
+    "Run": 37.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Valiant 2012",
+    "Writer": "Various",
+    "Publisher": "Valiant",
+    "Run": 300.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Vampirella: Roses for the Dead",
+    "Writer": "Deak-Lisner Kristina",
+    "Publisher": "Dynamite",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Vampirella/Dejah Thoris",
+    "Writer": "Burnham, Erik",
+    "Publisher": "Dynamite",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Velvet",
+    "Writer": "Brubaker, Ed",
+    "Publisher": "Image",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Vengeance of Vampirella",
+    "Writer": "Sniegoski, Tom",
+    "Publisher": "Dynamite",
+    "Run": 26.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Venom",
+    "Writer": "Remender, Rick",
+    "Publisher": "Marvel",
+    "Run": 22.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Victory Parade",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Villains United/Secret Six Vol. 1",
+    "Writer": "Simone, Gail",
+    "Publisher": "DC",
+    "Run": 56.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Vinland Saga",
+    "Writer": "Yukimura, Makoto",
+    "Publisher": "Manga",
+    "Run": 21.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Vision",
+    "Writer": "King, Tom",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wake, The",
+    "Writer": "Snyder, Scott",
+    "Publisher": "DC",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "War of the Realms",
+    "Writer": "Aaron, Jason",
+    "Publisher": "Marvel",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "War of the Realms: Agents of Atlas",
+    "Writer": "Pak, Greg",
+    "Publisher": "Marvel",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "War of the Realms: Giant-Man",
+    "Writer": "Williams, Leah",
+    "Publisher": "Marvel",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "War of the Realms: Journey into Mystery",
+    "Writer": "McElroys",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "War of the Realms: Punisher",
+    "Writer": "Duggan, Gerry",
+    "Publisher": "Marvel",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "War of the Realms: Spider-Man & the League of Realms",
+    "Writer": "Ryan, Sean",
+    "Publisher": "Marvel",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "War of the Realms: Strikeforce: The Dark Elf Realm",
+    "Writer": "Hill, Bryan",
+    "Publisher": "Marvel",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "War of the Realms: Strikeforce: The Land of the Giants",
+    "Writer": "Taylor, Tom",
+    "Publisher": "Marvel",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "War of the Realms: Strikeforce: The War Avengers",
+    "Writer": "Hopless, Dennis",
+    "Publisher": "Marvel",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "War of the Realms: Uncanny X-Men",
+    "Writer": "Rosenberg, Matthew",
+    "Publisher": "Marvel",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "War of the Realms: War Scrolls",
+    "Writer": "Various",
+    "Publisher": "Marvel",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Warlock",
+    "Writer": "Starlin, Jim",
+    "Publisher": "Marvel",
+    "Run": 54.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Warlord",
+    "Writer": "Grell, Mike",
+    "Publisher": "DC",
+    "Run": 62.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wasteland",
+    "Writer": "Ostrander, John",
+    "Publisher": "Oni Press",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Watchmen",
+    "Writer": "Moore, Alan",
+    "Publisher": "Vertigo",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Watersnakes",
+    "Writer": "Sandoval, Tony",
+    "Publisher": "Lion Forge",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wayward",
+    "Writer": "Zub, Jim",
+    "Publisher": "Image",
+    "Run": 30.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "We are Robin",
+    "Writer": "Bermejo, Lee",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "We Can Never Go Home",
+    "Writer": "Rosenberg, Matthew",
+    "Publisher": "Black Mask",
+    "Run": 5.0,
+    "Read": true,
+    "Random Comic": null
+  },
+  {
+    "Title": "We Stand on Guard",
+    "Writer": "Vaughan, Brian K.",
+    "Publisher": "Image",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "We3",
+    "Writer": "Morrison, Grant",
+    "Publisher": "Vertigo",
+    "Run": 3.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Weatherman, The",
+    "Writer": "LeHeup, Jody",
+    "Publisher": "Image",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wednesday Comics",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Werewolf at Dusk: and Other Stories, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "West Coast Avengers",
+    "Writer": "Thompson, Kelly",
+    "Publisher": "Marvel",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wet Moon",
+    "Writer": "Campbell, Sophie",
+    "Publisher": "Oni Press",
+    "Run": 51.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Where We Live: Las Vegas Shooting Benefits",
+    "Writer": "Various",
+    "Publisher": "Image",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "White Trees, The",
+    "Writer": "Zdarsky, Chip",
+    "Publisher": "Image",
+    "Run": 2.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Whiteout",
+    "Writer": "Rucka, Greg",
+    "Publisher": "Oni Press",
+    "Run": 9.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Who is Jake Ellis",
+    "Writer": "Edmondson, Nathan",
+    "Publisher": "Image",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wicked + The Divine, The",
+    "Writer": "Gillen, Keiron",
+    "Publisher": "Image",
+    "Run": 45.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wild Storm, The",
+    "Writer": "Ellis, Warren",
+    "Publisher": "DC",
+    "Run": 24.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wild Storm: Michael Cray, The",
+    "Writer": "Hill, Bryan",
+    "Publisher": "DC",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Winter Men, The",
+    "Writer": "Lewis, Brett",
+    "Publisher": "Wildstorm",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Witchblade",
+    "Writer": "Marz, Ron",
+    "Publisher": "Top Cow",
+    "Run": 95.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Witcher Vol 9: Corvo Bianco, The",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Woman World",
+    "Writer": "Dhaliwal, Aminder",
+    "Publisher": "Drawn and Quarterly",
+    "Run": 10.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wonder Woman",
+    "Writer": "Azzarello, Brian",
+    "Publisher": "DC",
+    "Run": 52.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wonder Woman",
+    "Writer": "Rucka, Greg",
+    "Publisher": "DC",
+    "Run": 58.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wonderful Wizard of Oz, The",
+    "Writer": "Shanower, Eric",
+    "Publisher": "Marvel",
+    "Run": 8.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Woods, The",
+    "Writer": "Tynion IV, James",
+    "Publisher": "Boom!",
+    "Run": 36.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "World Trigger",
+    "Writer": "Ashihara, Daisuke",
+    "Publisher": "Manga",
+    "Run": 19.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "World War Hulk + Incredible Hulk #106 - #111",
+    "Writer": "Pak, Greg",
+    "Publisher": "Marvel",
+    "Run": 11.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wrong Earth, The",
+    "Writer": "Various",
+    "Publisher": "Ahoy",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Wytches",
+    "Writer": "Snyder, Scott",
+    "Publisher": "Image",
+    "Run": 9.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-23",
+    "Writer": "Liu, Marjorie",
+    "Publisher": "Marvel",
+    "Run": 21.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-23: Innocence Lost/Target X",
+    "Writer": "Kyle, Craig",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Factor",
+    "Writer": "Simonson, Louise",
+    "Publisher": "Marvel",
+    "Run": 65.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Factor",
+    "Writer": "David, Peter",
+    "Publisher": "Marvel",
+    "Run": 51.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Force",
+    "Writer": "Kyle, Craig",
+    "Publisher": "Marvel",
+    "Run": 29.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Force Vol 1: Fractures",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Force/X-Statix",
+    "Writer": "Milligan, Peter",
+    "Publisher": "Marvel",
+    "Run": 46.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Men Legacy",
+    "Writer": "Carey, Mike",
+    "Publisher": "Marvel",
+    "Run": 52.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Men Legacy",
+    "Writer": "Spurrier, Simon",
+    "Publisher": "Marvel",
+    "Run": 25.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Men Saga",
+    "Writer": "Claremont, Chris",
+    "Publisher": "Marvel",
+    "Run": 224.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Men Vol 1: Homecoming",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Men: Asgardian Wars",
+    "Writer": "Claremont, Chris",
+    "Publisher": "Marvel",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Men: Grand Design",
+    "Writer": "Piskor, Ed",
+    "Publisher": "Marvel",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Men: Grand Design - X-Tinction",
+    "Writer": "Piskor, Ed",
+    "Publisher": "Marvel",
+    "Run": 2.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Men: No More Humans",
+    "Writer": "Carey, Mike",
+    "Publisher": "Marvel",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Men: Red",
+    "Writer": "Taylor, Tom",
+    "Publisher": "Marvel",
+    "Run": 12.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "X-Men: Season One",
+    "Writer": "Gage, Christos",
+    "Publisher": "Marvel",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Y: The Last Man",
+    "Writer": "Vaughan, Brian K.",
+    "Publisher": "Vertigo",
+    "Run": 60.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Year of the Villain",
+    "Writer": "Various",
+    "Publisher": "DC",
+    "Run": 7.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "You are Here",
+    "Writer": "Baker, Kyle",
+    "Publisher": "Vertigo",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Young Avengers",
+    "Writer": "Gillen, Kieron",
+    "Publisher": "Marvel",
+    "Run": 15.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Young Avengers",
+    "Writer": "Heinberg, Allan",
+    "Publisher": "Marvel",
+    "Run": 13.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Young Frances",
+    "Writer": "Lin, Hartley",
+    "Publisher": "AdHouse",
+    "Run": 6.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Young Hag and The Witches Quest",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Young Justice",
+    "Writer": "David, Peter",
+    "Publisher": "DC",
+    "Run": 55.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Young Liars",
+    "Writer": "Lapham, David",
+    "Publisher": "Vertigo",
+    "Run": 18.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Young Terrorists",
+    "Writer": "Pizzolo, Matt",
+    "Publisher": "Black Mask",
+    "Run": 2.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Your Black Friend and Other Strangers",
+    "Writer": "Passmore, Ben",
+    "Publisher": "Silver Sprocket",
+    "Run": 4.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Zatanna: Bring Down The House Collected",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Zero Girl",
+    "Writer": "Kieth, Sam",
+    "Publisher": "DC",
+    "Run": 5.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Ziggy Pig Silly Seal",
+    "Writer": "Tieri, Frank",
+    "Publisher": "Marvel",
+    "Run": 1.0,
+    "Read": false,
+    "Random Comic": null
+  },
+  {
+    "Title": "Zodiac",
+    "Writer": null,
+    "Publisher": null,
+    "Run": NaN,
+    "Read": null,
+    "Random Comic": null
+  },
+  {
+    "Title": "Zot!",
+    "Writer": "McCloud, Scott",
+    "Publisher": "Eclipse",
+    "Run": 36.0,
+    "Read": false,
+    "Random Comic": null
+  }
+]

@@ -98,6 +98,46 @@ app.get("/googlebooks", async (req, res) => {
   }
 });
 
+// AniList Proxy for Anime
+app.get("/anilist-anime", async (req, res) => {
+  const query = req.query.query;
+  
+  try {
+    const response = await fetch("https://graphql.anilist.co", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        query: `
+          query ($search: String) {
+            Media(search: $search, type: ANIME) {
+              title {
+                romaji
+              }
+              description
+              coverImage {
+                large
+              }
+              startDate {
+                year
+              }
+            }
+          }
+        `,
+        variables: {
+          search: query,
+        },
+      }),
+    });
+
+    const data = await response.json();
+    res.json(data);
+  } catch (err) {
+    console.error("AniList fetch failed:", err);
+    res.status(500).json({ error: "AniList fetch failed" });
+  }
+});
 
 app.listen(PORT, () => {
   console.log(`🚀 Proxy server running on http://localhost:${PORT}`);

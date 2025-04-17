@@ -120,6 +120,26 @@ export default function RandomPicker() {
       }
     }
 
+    if (type === "anime" && choice?.Title) {
+      const cleanedTitle = cleanTitle(choice.Title);
+      try {
+        const response = await fetch(
+          `http://localhost:3001/anilist-anime?query=${encodeURIComponent(cleanedTitle)}`
+        );
+        const data = await response.json();
+        const anime = data.data?.Media;
+    
+        if (anime) {
+          choice.Description = anime.description?.replace(/<[^>]+>/g, "") || "No description available.";
+          choice.Poster = anime.coverImage?.large;
+          choice.Year = anime.startDate?.year;
+        }
+      } catch (err) {
+        console.error("AniList Anime fetch failed:", err);
+      }
+    }
+    
+
     setPicked({ ...choice, type });
   };
 
