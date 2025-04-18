@@ -9,7 +9,8 @@ export default function RandomPicker() {
     graphicNovels: [],
     shows: [],
     documentaries: [],
-    anime: []
+    anime: [],
+    manga: []
   });
   const [picked, setPicked] = useState(null);
 
@@ -18,47 +19,53 @@ export default function RandomPicker() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/data/cleaned_movies.json").then(res => res.json()),
-      fetch("/data/games.json").then(res => res.json()),
-      fetch("/data/cleaned_books.json").then(res => res.json()),
-      fetch("/data/comics.json").then(res => res.json()),
-      fetch("/data/graphic_novels.json").then(res => res.json()),
-      fetch("/data/shows.json").then(res => res.json()),
-      fetch("/data/documentaries.json").then(res => res.json()),
-      fetch("/data/anime.json").then(res => res.json())
+      fetch("/data/cleaned_movies.json").then((res) => res.json()),
+      fetch("/data/games.json").then((res) => res.json()),
+      fetch("/data/cleaned_books.json").then((res) => res.json()),
+      fetch("/data/comics.json").then((res) => res.json()),
+      fetch("/data/graphic_novels.json").then((res) => res.json()),
+      fetch("/data/shows.json").then((res) => res.json()),
+      fetch("/data/documentaries.json").then((res) => res.json()),
+      fetch("/data/Anime Cleaned.json").then((res) => res.json()),
+      fetch("/data/manga.json").then((res) => res.json())
     ])
-    .then(([movies, games, books, comics, graphicNovels, shows, documentaries, anime]) => {
-      setMedia({ movies, games, books, comics, graphicNovels, shows, documentaries, anime });
-    })
-    .catch(err => console.error("Failed to load media data:", err));
+      .then(([movies, games, books, comics, graphicNovels, shows, documentaries, anime, manga]) => {
+        setMedia({ movies, games, books, comics, graphicNovels, shows, documentaries, anime, manga });
+      })
+      .catch((err) => console.error("Failed to load media data:", err));
   }, []);
 
   const cleanTitle = (title) => {
     return title.replace(/\s*\([^)]*\)/g, "").replace(/\d+/g, "").trim();
   };
 
+  const stripHtml = (html) => {
+    const tempDiv = document.createElement("div");
+    tempDiv.innerHTML = html;
+    return tempDiv.textContent || tempDiv.innerText || "";
+  };
+
   const pickRandom = async (type) => {
-    const entries = media[type]?.filter(m => 
+    const entries = media[type]?.filter((m) =>
       typeof m.Watched === "string" ? m.Watched.toLowerCase() !== "yes" : true
     ) || [];
 
     const choice = entries[Math.floor(Math.random() * entries.length)];
 
     const isTMDBCategory = ["movies", "documentaries", "shows"].includes(type);
-
     if (isTMDBCategory && choice?.Title) {
       const cleanedTitle = cleanTitle(choice.Title);
       try {
         const searchRes = await fetch(
-          `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanedTitle)}`
+          `https://api.themoviedb.org/3/search/${type === "shows" ? "tv" : "movie"}?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanedTitle)}`
         );
         const searchData = await searchRes.json();
 
         if (searchData.results?.length) {
-          const result = searchData.results[0];
-          choice.Description = result.overview;
-          choice.Poster = result.poster_path ? `https://image.tmdb.org/t/p/w500${result.poster_path}` : null;
-          choice.Year = result.release_date?.slice(0, 4);
+          const details = searchData.results[0];
+          choice.Description = details.overview;
+          choice.Poster = `https://image.tmdb.org/t/p/w500${details.poster_path}`;
+          choice.Year = (details.first_air_date || details.release_date)?.slice(0, 4);
         }
       } catch (err) {
         console.error("TMDB fetch failed:", err);
@@ -76,7 +83,7 @@ export default function RandomPicker() {
           choice.Description = game.summary || "No description available.";
           choice.Poster = game.cover?.url?.replace("t_thumb", "t_cover_big");
           choice.Year = game.first_release_date ? new Date(game.first_release_date * 1000).getFullYear() : null;
-          choice.Genres = game.genres?.map(g => g.name).join(", ");
+          choice.Genres = game.genres?.map((g) => g.name).join(", ");
         }
       } catch (err) {
         console.error("IGDB fetch failed:", err);
@@ -95,7 +102,7 @@ export default function RandomPicker() {
           choice.Poster = comic.image?.super_url;
           choice.Year = comic.cover_date?.slice(0, 4);
           choice.Publisher = comic.publisher?.name;
-          choice.Characters = comic.character_credits?.slice(0, 5).map(c => c.name).join(", ");
+          choice.Characters = comic.character_credits?.slice(0, 5).map((char) => char.name).join(", ");
         }
       } catch (err) {
         console.error("ComicVine fetch failed:", err);
@@ -123,14 +130,12 @@ export default function RandomPicker() {
     if (type === "anime" && choice?.Title) {
       const cleanedTitle = cleanTitle(choice.Title);
       try {
-        const response = await fetch(
-          `http://localhost:3001/anilist-anime?query=${encodeURIComponent(cleanedTitle)}`
-        );
+        const response = await fetch(`http://localhost:3001/anilist-anime?query=${encodeURIComponent(cleanedTitle)}`);
         const data = await response.json();
         const anime = data.data?.Media;
-    
+
         if (anime) {
-          choice.Description = anime.description?.replace(/<[^>]+>/g, "") || "No description available.";
+          choice.Description = anime.description ? stripHtml(anime.description) : "No description available.";
           choice.Poster = anime.coverImage?.large;
           choice.Year = anime.startDate?.year;
         }
@@ -138,7 +143,23 @@ export default function RandomPicker() {
         console.error("AniList Anime fetch failed:", err);
       }
     }
-    
+
+    if (type === "manga" && choice?.Title) {
+      const cleanedTitle = cleanTitle(choice.Title);
+      try {
+        const response = await fetch(`http://localhost:3001/anilist-manga?query=${encodeURIComponent(cleanedTitle)}`);
+        const data = await response.json();
+        const manga = data.data?.Media;
+
+        if (manga) {
+          choice.Description = manga.description ? stripHtml(manga.description) : "No description available.";
+          choice.Poster = manga.coverImage?.large;
+          choice.Year = manga.startDate?.year;
+        }
+      } catch (err) {
+        console.error("AniList Manga fetch failed:", err);
+      }
+    }
 
     setPicked({ ...choice, type });
   };
@@ -146,7 +167,7 @@ export default function RandomPicker() {
   return (
     <div className="min-h-screen bg-[#9cb76c] text-white font-press-start flex flex-col items-center justify-start p-6">
       <div className="mb-6 flex flex-wrap gap-4 justify-center w-full max-w-xl">
-        {Object.keys(media).map(category => (
+        {Object.keys(media).map((category) => (
           <button
             key={category}
             onClick={() => pickRandom(category)}

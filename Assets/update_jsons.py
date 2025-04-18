@@ -10,13 +10,14 @@ csv_files = {
     "comics": "Assets/MCGBGTV Master List - Comics.csv",
     "graphic_novels": "Assets/MCGBGTV Master List - Graphic Novels.csv",
     "shows": "Assets/MCGBGTV Master List - shows.csv",
-    "documentaries": "Assets/MCGBGTV Master List - Documentary.csv"
+    "documentaries": "Assets/MCGBGTV Master List - Documentary.csv",
+    "Anime Cleaned": "Assets/MCGBGTV Master List - Anime.csv",
+    "manga": "Assets/MCGBGTV Master List - Manga.csv"
 }
 
 output_dir = "public/data"
 os.makedirs(output_dir, exist_ok=True)
 
-# Normalize title column for all CSVs
 def standardize_title_column(df):
     for col in df.columns:
         if col.lower() in ["title", "movies", "movie", "book", "name"]:
@@ -28,19 +29,17 @@ for name, path in csv_files.items():
     try:
         df = pd.read_csv(path)
 
-        # Drop any unnamed index columns
-        df = df.loc[:, ~df.columns.str.contains("^Unnamed")]
-
-        # Standardize column name to "Title"
+        df = df.loc[:, ~df.columns.str.contains("^Unnamed")]  # Remove unnamed columns
         df = standardize_title_column(df)
-
-        # Filter out entries without titles
         df = df[df["Title"].notna()]
 
-        # Convert all NaN/NaT to None (→ null in JSON)
+        # ✅ If anime or manga, drop "Seen" column if it exists
+        if name in ["anime", "manga"] and "Seen" in df.columns:
+            df = df.drop(columns=["Seen"])
+
+        # Replace NaN with None (null in JSON)
         df = df.astype(object).where(pd.notnull(df), None)
 
-        # Save to JSON
         out_path = os.path.join(output_dir, f"{name}.json")
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(df.to_dict(orient="records"), f, ensure_ascii=False, indent=2)
